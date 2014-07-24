@@ -1,0 +1,954 @@
+Entry	Entry name	Status	Protein names	Gene names	Organism	Length
+P18599	5HT2A_CRIGR	reviewed	5-hydroxytryptamine receptor 2A (5-HT-2) (5-HT-2A) (Serotonin receptor 2A)	HTR2A	Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus)	471
+P50128	5HT2A_MACMU	reviewed	5-hydroxytryptamine receptor 2A (5-HT-2) (5-HT-2A) (Serotonin receptor 2A)	HTR2A	Macaca mulatta (Rhesus macaque)	471
+P28223	5HT2A_HUMAN	reviewed	5-hydroxytryptamine receptor 2A (5-HT-2) (5-HT-2A) (Serotonin receptor 2A)	HTR2A HTR2	Homo sapiens (Human)	471
+Q75Z89	5HT2A_BOVIN	reviewed	5-hydroxytryptamine receptor 2A (5-HT-2) (5-HT-2A) (Serotonin receptor 2A)	HTR2A 5HTR2A	Bos taurus (Bovine)	470
+O46635	5HT2A_CANFA	reviewed	5-hydroxytryptamine receptor 2A (5-HT-2) (5-HT-2A) (5-hydroxytryptamine receptor) (Serotonin receptor 2A)	HTR2A 5-HTR2A	Canis familiaris (Dog) (Canis lupus familiaris)	470
+Q5R4Q6	5HT2A_PONPY	reviewed	5-hydroxytryptamine receptor 2A (5-HT-2) (5-HT-2A) (Serotonin receptor 2A)	HTR2A	Pongo pygmaeus (Bornean orangutan)	471
+P35382	5HT2A_CAVPO	reviewed	5-hydroxytryptamine receptor 2A (5-HT-2) (5-HT-2A) (Serotonin receptor 2A) (Fragment)	HTR2A	Cavia porcellus (Guinea pig)	247
+P14842	5HT2A_RAT	reviewed	5-hydroxytryptamine receptor 2A (5-HT-2) (5-HT-2A) (Serotonin receptor 2A)	Htr2a Htr2	Rattus norvegicus (Rat)	471
+P35363	5HT2A_MOUSE	reviewed	5-hydroxytryptamine receptor 2A (5-HT-2) (5-HT-2A) (Serotonin receptor 2A)	Htr2a Htr2	Mus musculus (Mouse)	471
+P50129	5HT2A_PIG	reviewed	5-hydroxytryptamine receptor 2A (5-HT-2) (5-HT-2A) (5-HT2A) (Serotonin receptor 2A)	HTR2A	Sus scrofa (Pig)	470
+O95477	ABCA1_HUMAN	reviewed	ATP-binding cassette sub-family A member 1 (ATP-binding cassette transporter 1) (ABC-1) (ATP-binding cassette 1) (Cholesterol efflux regulatory protein)	ABCA1 ABC1 CERP	Homo sapiens (Human)	2261
+P41233	ABCA1_MOUSE	reviewed	ATP-binding cassette sub-family A member 1 (ATP-binding cassette transporter 1) (ABC-1) (ATP-binding cassette 1)	Abca1 Abc1	Mus musculus (Mouse)	2261
+Q9BYF1	ACE2_HUMAN	reviewed	Angiotensin-converting enzyme 2 (EC 3.4.17.23) (ACE-related carboxypeptidase) (Angiotensin-converting enzyme homolog) (ACEH) (Metalloprotease MPROT15) [Cleaved into: Processed angiotensin-converting enzyme 2]	ACE2 UNQ868/PRO1885	Homo sapiens (Human)	805
+P49582	ACHA7_MOUSE	reviewed	Neuronal acetylcholine receptor subunit alpha-7	Chrna7 Acra7	Mus musculus (Mouse)	502
+Q05941	ACHA7_RAT	reviewed	Neuronal acetylcholine receptor subunit alpha-7	Chrna7 Acra7	Rattus norvegicus (Rat)	502
+Q9Z0F8	ADA17_MOUSE	reviewed	Disintegrin and metalloproteinase domain-containing protein 17 (ADAM 17) (EC 3.4.24.86) (TNF-alpha convertase) (TNF-alpha-converting enzyme) (CD antigen CD156b)	Adam17 Tace	Mus musculus (Mouse)	827
+P78536	ADA17_HUMAN	reviewed	Disintegrin and metalloproteinase domain-containing protein 17 (ADAM 17) (EC 3.4.24.86) (Snake venom-like protease) (TNF-alpha convertase) (TNF-alpha-converting enzyme) (CD antigen CD156b)	ADAM17 CSVP TACE	Homo sapiens (Human)	824
+Q08462	ADCY2_HUMAN	reviewed	Adenylate cyclase type 2 (EC 4.6.1.1) (ATP pyrophosphate-lyase 2) (Adenylate cyclase type II) (Adenylyl cyclase 2)	ADCY2 KIAA1060	Homo sapiens (Human)	1091
+Q80TL1	ADCY2_MOUSE	reviewed	Adenylate cyclase type 2 (EC 4.6.1.1) (ATP pyrophosphate-lyase 2) (Adenylate cyclase type II) (Adenylyl cyclase 2)	Adcy2 Kiaa1060	Mus musculus (Mouse)	1090
+P26769	ADCY2_RAT	reviewed	Adenylate cyclase type 2 (EC 4.6.1.1) (ATP pyrophosphate-lyase 2) (Adenylate cyclase type II) (Adenylyl cyclase 2)	Adcy2	Rattus norvegicus (Rat)	1090
+P21932	ADCY3_RAT	reviewed	Adenylate cyclase type 3 (EC 4.6.1.1) (ATP pyrophosphate-lyase 3) (Adenylate cyclase type III) (AC-III) (Adenylate cyclase, olfactive type) (Adenylyl cyclase 3) (AC3)	Adcy3	Rattus norvegicus (Rat)	1144
+Q04400	ADCY5_RAT	reviewed	Adenylate cyclase type 5 (EC 4.6.1.1) (ATP pyrophosphate-lyase 5) (Adenylate cyclase type V) (Adenylyl cyclase 5)	Adcy5	Rattus norvegicus (Rat)	1262
+Q03343	ADCY6_RAT	reviewed	Adenylate cyclase type 6 (EC 4.6.1.1) (ATP pyrophosphate-lyase 6) (Adenylate cyclase type VI) (ACVI) (Adenylyl cyclase 6) (Ca(2+)-inhibitable adenylyl cyclase)	Adcy6	Rattus norvegicus (Rat)	1166
+Q60813	ADM1A_MOUSE	reviewed	Disintegrin and metalloproteinase domain-containing protein 1a (ADAM 1a) (EC 3.4.24.-) (Fertilin subunit alpha-a)	Adam1a Adam1 Ftna	Mus musculus (Mouse)	791
+P10608	ADRB2_RAT	reviewed	Beta-2 adrenergic receptor (Beta-2 adrenoreceptor) (Beta-2 adrenoceptor)	Adrb2 Adrb2r	Rattus norvegicus (Rat)	418
+P06685	AT1A1_RAT	reviewed	Sodium/potassium-transporting ATPase subunit alpha-1 (Na(+)/K(+) ATPase alpha-1 subunit) (EC 3.6.3.9) (Sodium pump subunit alpha-1)	Atp1a1	Rattus norvegicus (Rat)	1023
+Q8VDN2	AT1A1_MOUSE	reviewed	Sodium/potassium-transporting ATPase subunit alpha-1 (Na(+)/K(+) ATPase alpha-1 subunit) (EC 3.6.3.9) (Sodium pump subunit alpha-1)	Atp1a1	Mus musculus (Mouse)	1023
+P05023	AT1A1_HUMAN	reviewed	Sodium/potassium-transporting ATPase subunit alpha-1 (Na(+)/K(+) ATPase alpha-1 subunit) (EC 3.6.3.9) (Sodium pump subunit alpha-1)	ATP1A1	Homo sapiens (Human)	1023
+Q6PIE5	AT1A2_MOUSE	reviewed	Sodium/potassium-transporting ATPase subunit alpha-2 (Na(+)/K(+) ATPase alpha-2 subunit) (EC 3.6.3.9) (Na(+)/K(+) ATPase alpha(+) subunit) (Sodium pump subunit alpha-2)	Atp1a2	Mus musculus (Mouse)	1020
+P05026	AT1B1_HUMAN	reviewed	Sodium/potassium-transporting ATPase subunit beta-1 (Sodium/potassium-dependent ATPase subunit beta-1)	ATP1B1 ATP1B	Homo sapiens (Human)	303
+P54709	AT1B3_HUMAN	reviewed	Sodium/potassium-transporting ATPase subunit beta-3 (Sodium/potassium-dependent ATPase subunit beta-3) (ATPB-3) (CD antigen CD298)	ATP1B3	Homo sapiens (Human)	279
+P14094	AT1B1_MOUSE	reviewed	Sodium/potassium-transporting ATPase subunit beta-1 (Sodium/potassium-dependent ATPase subunit beta-1)	Atp1b1 Atp4b	Mus musculus (Mouse)	304
+P97370	AT1B3_MOUSE	reviewed	Sodium/potassium-transporting ATPase subunit beta-3 (Sodium/potassium-dependent ATPase subunit beta-3) (ATPB-3) (CD antigen CD298)	Atp1b3	Mus musculus (Mouse)	278
+P07340	AT1B1_RAT	reviewed	Sodium/potassium-transporting ATPase subunit beta-1 (Sodium/potassium-dependent ATPase subunit beta-1)	Atp1b1	Rattus norvegicus (Rat)	304
+P06686	AT1A2_RAT	reviewed	Sodium/potassium-transporting ATPase subunit alpha-2 (Na(+)/K(+) ATPase alpha-2 subunit) (EC 3.6.3.9) (Na(+)/K(+) ATPase alpha(+) subunit) (Sodium pump subunit alpha-2)	Atp1a2	Rattus norvegicus (Rat)	1020
+P50993	AT1A2_HUMAN	reviewed	Sodium/potassium-transporting ATPase subunit alpha-2 (Na(+)/K(+) ATPase alpha-2 subunit) (EC 3.6.3.9) (Sodium pump subunit alpha-2)	ATP1A2 KIAA0778	Homo sapiens (Human)	1020
+Q63377	AT1B3_RAT	reviewed	Sodium/potassium-transporting ATPase subunit beta-3 (Sodium/potassium-dependent ATPase subunit beta-3) (ATPB-3) (CD antigen CD298)	Atp1b3	Rattus norvegicus (Rat)	279
+P11505	AT2B1_RAT	reviewed	Plasma membrane calcium-transporting ATPase 1 (PMCA1) (EC 3.6.3.8) (Plasma membrane calcium ATPase isoform 1) (Plasma membrane calcium pump isoform 1)	Atp2b1	Rattus norvegicus (Rat)	1258
+Q64568	AT2B3_RAT	reviewed	Plasma membrane calcium-transporting ATPase 3 (PMCA3) (EC 3.6.3.8) (Plasma membrane calcium ATPase isoform 3) (Plasma membrane calcium pump isoform 3)	Atp2b3 Pmca3	Rattus norvegicus (Rat)	1258
+P11506	AT2B2_RAT	reviewed	Plasma membrane calcium-transporting ATPase 2 (PMCA2) (EC 3.6.3.8) (Plasma membrane calcium ATPase isoform 2) (Plasma membrane calcium pump isoform 2)	Atp2b2	Rattus norvegicus (Rat)	1243
+P26453	BASI_RAT	reviewed	Basigin (Glycoprotein CE9) (OX-47 antigen) (CD antigen CD147)	Bsg	Rattus norvegicus (Rat)	388
+P18572	BASI_MOUSE	reviewed	Basigin (Basic immunoglobulin superfamily) (HT7 antigen) (Membrane glycoprotein gp42) (CD antigen CD147)	Bsg	Mus musculus (Mouse)	389
+P35613	BASI_HUMAN	reviewed	Basigin (5F7) (Collagenase stimulatory factor) (Extracellular matrix metalloproteinase inducer) (EMMPRIN) (Leukocyte activation antigen M6) (OK blood group antigen) (Tumor cell-derived collagenase stimulatory factor) (TCSF) (CD antigen CD147)	BSG UNQ6505/PRO21383	Homo sapiens (Human)	385
+Q13873	BMPR2_HUMAN	reviewed	Bone morphogenetic protein receptor type-2 (BMP type-2 receptor) (BMPR-2) (EC 2.7.11.30) (Bone morphogenetic protein receptor type II) (BMP type II receptor) (BMPR-II)	BMPR2 PPH1	Homo sapiens (Human)	1038
+P36895	BMR1A_MOUSE	reviewed	Bone morphogenetic protein receptor type-1A (BMP type-1A receptor) (BMPR-1A) (EC 2.7.11.30) (Activin receptor-like kinase 3) (ALK-3) (BMP-2/BMP-4 receptor) (Serine/threonine-protein kinase receptor R5) (SKR5) (CD antigen CD292)	Bmpr1a Acvrlk3 Bmpr	Mus musculus (Mouse)	532
+O35607	BMPR2_MOUSE	reviewed	Bone morphogenetic protein receptor type-2 (BMP type-2 receptor) (BMPR-2) (EC 2.7.11.30) (BRK-3) (Bone morphogenetic protein receptor type II) (BMP type II receptor) (BMPR-II)	Bmpr2	Mus musculus (Mouse)	1038
+Q78EA7	BMR1A_RAT	reviewed	Bone morphogenetic protein receptor type-1A (BMP type-1A receptor) (BMPR-1A) (EC 2.7.11.30) (Activin receptor-like kinase 3) (ALK-3) (Bone morphogenetic protein 4 receptor) (CD antigen CD292)	Bmpr1a	Rattus norvegicus (Rat)	532
+Q8R2Q8	BST2_MOUSE	reviewed	Bone marrow stromal antigen 2 (BST-2) (HM1.24 antigen) (CD antigen CD317)	Bst2	Mus musculus (Mouse)	172
+Q10589	BST2_HUMAN	reviewed	Bone marrow stromal antigen 2 (BST-2) (HM1.24 antigen) (Tetherin) (CD antigen CD317)	BST2	Homo sapiens (Human)	180
+Q6WRU0	BST2_CRIGR	reviewed	Bone marrow stromal antigen 2 (BST-2) (Luminal membrane-associated protein GREG) (CD antigen CD317)	Bst2	Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus)	203
+Q811A2	BST2_RAT	reviewed	Bone marrow stromal antigen 2 (BST-2) (Protein DAMP-1) (CD antigen CD317)	Bst2 Damp1	Rattus norvegicus (Rat)	172
+Q01815	CAC1C_MOUSE	reviewed	Voltage-dependent L-type calcium channel subunit alpha-1C (Calcium channel, L type, alpha-1 polypeptide, isoform 1, cardiac muscle) (MELC-CC) (Mouse brain class C) (MBC) (Voltage-gated calcium channel subunit alpha Cav1.2)	Cacna1c Cach2 Cacn2 Cacnl1a1 Cchl1a1	Mus musculus (Mouse)	2139
+O88427	CAC1H_MOUSE	reviewed	Voltage-dependent T-type calcium channel subunit alpha-1H (Voltage-gated calcium channel subunit alpha Cav3.2)	Cacna1h Kiaa1120	Mus musculus (Mouse)	2365
+Q13936	CAC1C_HUMAN	reviewed	Voltage-dependent L-type calcium channel subunit alpha-1C (Calcium channel, L type, alpha-1 polypeptide, isoform 1, cardiac muscle) (Voltage-gated calcium channel subunit alpha Cav1.2)	CACNA1C CACH2 CACN2 CACNL1A1 CCHL1A1	Homo sapiens (Human)	2221
+O95180	CAC1H_HUMAN	reviewed	Voltage-dependent T-type calcium channel subunit alpha-1H (Low-voltage-activated calcium channel alpha1 3.2 subunit) (Voltage-gated calcium channel subunit alpha Cav3.2)	CACNA1H	Homo sapiens (Human)	2353
+P33146	CAD15_MOUSE	reviewed	Cadherin-15 (Cadherin-14) (Muscle cadherin) (M-cadherin)	Cdh15 Cdh14	Mus musculus (Mouse)	784
+P55291	CAD15_HUMAN	reviewed	Cadherin-15 (Cadherin-14) (Muscle cadherin) (M-cadherin)	CDH15 CDH14 CDH3	Homo sapiens (Human)	814
+Q15762	CD226_HUMAN	reviewed	CD226 antigen (DNAX accessory molecule 1) (DNAM-1) (CD antigen CD226)	CD226 DNAM1	Homo sapiens (Human)	336
+P31042	CD28_RAT	reviewed	T-cell-specific surface glycoprotein CD28 (CD antigen CD28)	Cd28	Rattus norvegicus (Rat)	218
+P08921	CD2_RAT	reviewed	T-cell surface antigen CD2 (LFA-2) (LFA-3 receptor) (OX-34 antigen) (T-cell surface antigen T11/Leu-5) (CD antigen CD2)	Cd2	Rattus norvegicus (Rat)	344
+P16671	CD36_HUMAN	reviewed	Platelet glycoprotein 4 (Fatty acid translocase) (FAT) (Glycoprotein IIIb) (GPIIIB) (Leukocyte differentiation antigen CD36) (PAS IV) (PAS-4) (Platelet collagen receptor) (Platelet glycoprotein IV) (GPIV) (Thrombospondin receptor) (CD antigen CD36)	CD36 GP3B GP4	Homo sapiens (Human)	472
+Q07969	CD36_RAT	reviewed	Platelet glycoprotein 4 (Adipocyte membrane protein) (Fatty acid translocase) (Fatty acid transport protein) (Glycoprotein IIIb) (GPIIIB) (PAS IV) (PAS-4) (Platelet glycoprotein IV) (GPIV) (CD antigen CD36)	Cd36 Fat	Rattus norvegicus (Rat)	472
+Q08857	CD36_MOUSE	reviewed	Platelet glycoprotein 4 (Glycoprotein IIIb) (GPIIIB) (PAS IV) (PAS-4) (Platelet glycoprotein IV) (GPIV) (CD antigen CD36)	Cd36	Mus musculus (Mouse)	472
+P06332	CD4_MOUSE	reviewed	T-cell surface glycoprotein CD4 (T-cell differentiation antigen L3T4) (T-cell surface antigen T4/Leu-3) (CD antigen CD4)	Cd4	Mus musculus (Mouse)	457
+P05540	CD4_RAT	reviewed	T-cell surface glycoprotein CD4 (T-cell surface antigen T4/Leu-3) (W3/25 antigen) (CD antigen CD4)	Cd4	Rattus norvegicus (Rat)	457
+P01730	CD4_HUMAN	reviewed	T-cell surface glycoprotein CD4 (T-cell surface antigen T4/Leu-3) (CD antigen CD4)	CD4	Homo sapiens (Human)	458
+P40293	CD79A_BOVIN	reviewed	B-cell antigen receptor complex-associated protein alpha chain (Ig-alpha) (MB-1 membrane glycoprotein) (Membrane-bound immunoglobulin-associated protein) (Surface IgM-associated protein) (CD antigen CD79a)	CD79A IGA MB-1	Bos taurus (Bovine)	223
+P11911	CD79A_MOUSE	reviewed	B-cell antigen receptor complex-associated protein alpha chain (Ig-alpha) (MB-1 membrane glycoprotein) (Membrane-bound immunoglobulin-associated protein) (Surface IgM-associated protein) (CD antigen CD79a)	Cd79a Iga Mb-1	Mus musculus (Mouse)	220
+P0CAN6	CD79A_CANFA	reviewed	B-cell antigen receptor complex-associated protein alpha chain (Ig-alpha) (CD antigen CD79a)	CD79A	Canis familiaris (Dog) (Canis lupus familiaris)	236
+P11912	CD79A_HUMAN	reviewed	B-cell antigen receptor complex-associated protein alpha chain (Ig-alpha) (MB-1 membrane glycoprotein) (Membrane-bound immunoglobulin-associated protein) (Surface IgM-associated protein) (CD antigen CD79a)	CD79A IGA MB1	Homo sapiens (Human)	226
+Q29611	CLN3_CANFA	reviewed	Battenin (Protein CLN3)	CLN3	Canis familiaris (Dog) (Canis lupus familiaris)	438
+Q60HH0	CLN3_MACFA	reviewed	Battenin (Protein CLN3)	CLN3 QccE-16380	Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey)	438
+Q61124	CLN3_MOUSE	reviewed	Battenin (Protein CLN3)	Cln3	Mus musculus (Mouse)	438
+Q13286	CLN3_HUMAN	reviewed	Battenin (Batten disease protein) (Protein CLN3)	CLN3 BTS	Homo sapiens (Human)	438
+Q494W8	CRFM7_HUMAN	reviewed	CHRNA7-FAM7A fusion protein (CHRNA7-DR1) (D-10)	CHRFAM7A	Homo sapiens (Human)	412
+P08050	CXA1_RAT	reviewed	Gap junction alpha-1 protein (Connexin-43) (Cx43) (Gap junction 43 kDa heart protein)	Gja1 Cxn-43	Rattus norvegicus (Rat)	382
+P29414	CXA3_RAT	reviewed	Gap junction alpha-3 protein (Connexin-46) (Cx46)	Gja3 Cxn-46	Rattus norvegicus (Rat)	416
+P23242	CXA1_MOUSE	reviewed	Gap junction alpha-1 protein (Connexin-43) (Cx43) (Gap junction 43 kDa heart protein)	Gja1 Cxn-43	Mus musculus (Mouse)	382
+P17302	CXA1_HUMAN	reviewed	Gap junction alpha-1 protein (Connexin-43) (Cx43) (Gap junction 43 kDa heart protein)	GJA1 GJAL	Homo sapiens (Human)	382
+P78310	CXAR_HUMAN	reviewed	Coxsackievirus and adenovirus receptor (CAR) (hCAR) (CVB3-binding protein) (Coxsackievirus B-adenovirus receptor) (HCVADR)	CXADR CAR	Homo sapiens (Human)	365
+P97792	CXAR_MOUSE	reviewed	Coxsackievirus and adenovirus receptor homolog (CAR) (mCAR)	Cxadr Car	Mus musculus (Mouse)	365
+Q9R066	CXAR_RAT	reviewed	Coxsackievirus and adenovirus receptor homolog (CAR) (rCAR)	Cxadr Car	Rattus norvegicus (Rat)	365
+Q8WMV3	CXAR_BOVIN	reviewed	Coxsackievirus and adenovirus receptor homolog (Coxsackie virus and adenovirus receptor) (BCAR)	CXADR CAR	Bos taurus (Bovine)	365
+Q5R764	CXAR_PONAB	reviewed	Coxsackievirus and adenovirus receptor homolog (CAR)	CXADR CAR	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	365
+Q9TSZ6	DAG1_CANFA	reviewed	Dystroglycan (Dystrophin-associated glycoprotein 1) [Cleaved into: Alpha-dystroglycan (Alpha-DG); Beta-dystroglycan (Beta-DG)]	DAG1	Canis familiaris (Dog) (Canis lupus familiaris)	892
+Q28685	DAG1_RABIT	reviewed	Dystroglycan (Dystrophin-associated glycoprotein 1) [Cleaved into: Alpha-dystroglycan (Alpha-DG); Beta-dystroglycan (Beta-DG)]	DAG1	Oryctolagus cuniculus (Rabbit)	895
+Q14118	DAG1_HUMAN	reviewed	Dystroglycan (Dystrophin-associated glycoprotein 1) [Cleaved into: Alpha-dystroglycan (Alpha-DG); Beta-dystroglycan (Beta-DG)]	DAG1	Homo sapiens (Human)	895
+Q62165	DAG1_MOUSE	reviewed	Dystroglycan (Dystrophin-associated glycoprotein 1) [Cleaved into: Alpha-dystroglycan (Alpha-DG); Beta-dystroglycan (Beta-DG)]	Dag1 Dag-1	Mus musculus (Mouse)	893
+P70211	DCC_MOUSE	reviewed	Netrin receptor DCC (Tumor suppressor protein DCC)	Dcc	Mus musculus (Mouse)	1447
+Q63155	DCC_RAT	reviewed	Netrin receptor DCC (Tumor suppressor protein DCC)	Dcc	Rattus norvegicus (Rat)	1445
+P43146	DCC_HUMAN	reviewed	Netrin receptor DCC (Colorectal cancer suppressor) (Immunoglobulin superfamily DCC subclass member 1) (Tumor suppressor protein DCC)	DCC IGDCC1	Homo sapiens (Human)	1447
+P28843	DPP4_MOUSE	reviewed	Dipeptidyl peptidase 4 (EC 3.4.14.5) (Dipeptidyl peptidase IV) (DPP IV) (T-cell activation antigen CD26) (Thymocyte-activating molecule) (THAM) (CD antigen CD26) [Cleaved into: Dipeptidyl peptidase 4 membrane form (Dipeptidyl peptidase IV membrane form); Dipeptidyl peptidase 4 soluble form (Dipeptidyl peptidase IV soluble form)]	Dpp4 Cd26	Mus musculus (Mouse)	760
+Q9N2I7	DPP4_FELCA	reviewed	Dipeptidyl peptidase 4 (EC 3.4.14.5) (Dipeptidyl peptidase IV) (DPP IV) (T-cell activation antigen CD26) (CD antigen CD26) [Cleaved into: Dipeptidyl peptidase 4 membrane form (Dipeptidyl peptidase IV membrane form); Dipeptidyl peptidase 4 soluble form (Dipeptidyl peptidase IV soluble form)]	DPP4 CD26	Felis catus (Cat) (Felis silvestris catus)	765
+P22411	DPP4_PIG	reviewed	Dipeptidyl peptidase 4 (EC 3.4.14.5) (Dipeptidyl peptidase IV) (DPP IV) (T-cell activation antigen CD26) (CD antigen CD26) [Cleaved into: Dipeptidyl peptidase 4 membrane form (Dipeptidyl peptidase IV membrane form); Dipeptidyl peptidase 4 soluble form (Dipeptidyl peptidase IV soluble form)]	DPP4 CD26	Sus scrofa (Pig)	766
+P81425	DPP4_BOVIN	reviewed	Dipeptidyl peptidase 4 (EC 3.4.14.5) (Activation molecule 3) (ACT3) (Adenosine deaminase complexing protein) (ADCP-I) (Dipeptidyl peptidase IV) (DPP IV) (T-cell activation antigen CD26) (WC10) (CD antigen CD26) [Cleaved into: Dipeptidyl peptidase 4 membrane form (Dipeptidyl peptidase IV membrane form); Dipeptidyl peptidase 4 soluble form (Dipeptidyl peptidase IV soluble form)]	DPP4 CD26	Bos taurus (Bovine)	765
+P14740	DPP4_RAT	reviewed	Dipeptidyl peptidase 4 (EC 3.4.14.5) (Bile canaliculus domain-specific membrane glycoprotein) (Dipeptidyl peptidase IV) (DPP IV) (GP110 glycoprotein) (T-cell activation antigen CD26) (CD antigen CD26) [Cleaved into: Dipeptidyl peptidase 4 membrane form (Dipeptidyl peptidase IV membrane form); Dipeptidyl peptidase 4 soluble form (Dipeptidyl peptidase IV soluble form); Dipeptidyl peptidase 4 60 kDa soluble form (Dipeptidyl peptidase IV 60 kDa soluble form)]	Dpp4 Cd26	Rattus norvegicus (Rat)	767
+P27487	DPP4_HUMAN	reviewed	Dipeptidyl peptidase 4 (EC 3.4.14.5) (ADABP) (Adenosine deaminase complexing protein 2) (ADCP-2) (Dipeptidyl peptidase IV) (DPP IV) (T-cell activation antigen CD26) (TP103) (CD antigen CD26) [Cleaved into: Dipeptidyl peptidase 4 membrane form (Dipeptidyl peptidase IV membrane form); Dipeptidyl peptidase 4 soluble form (Dipeptidyl peptidase IV soluble form)]	DPP4 ADCP2 CD26	Homo sapiens (Human)	766
+P18901	DRD1_RAT	reviewed	D(1A) dopamine receptor (Dopamine D1 receptor)	Drd1 Drd1a	Rattus norvegicus (Rat)	446
+P48302	EDNRB_MOUSE	reviewed	Endothelin B receptor (ET-B) (ET-BR) (Endothelin receptor non-selective type)	Ednrb	Mus musculus (Mouse)	442
+P21451	EDNRB_RAT	reviewed	Endothelin B receptor (ET-B) (ET-BR) (Endothelin receptor non-selective type)	Ednrb	Rattus norvegicus (Rat)	442
+P24530	EDNRB_HUMAN	reviewed	Endothelin B receptor (ET-B) (ET-BR) (Endothelin receptor non-selective type)	EDNRB ETRB	Homo sapiens (Human)	442
+P98172	EFNB1_HUMAN	reviewed	Ephrin-B1 (EFL-3) (ELK ligand) (ELK-L) (EPH-related receptor tyrosine kinase ligand 2) (LERK-2)	EFNB1 EFL3 EPLG2 LERK2	Homo sapiens (Human)	346
+P52795	EFNB1_MOUSE	reviewed	Ephrin-B1 (CEK5 receptor ligand) (CEK5-L) (ELK ligand) (ELK-L) (EPH-related receptor tyrosine kinase ligand 2) (LERK-2) (Stimulated by retinoic acid gene 1 protein)	Efnb1 Epl2 Eplg2 Lerk2 Stra1	Mus musculus (Mouse)	345
+P00533	EGFR_HUMAN	reviewed	Epidermal growth factor receptor (EC 2.7.10.1) (Proto-oncogene c-ErbB-1) (Receptor tyrosine-protein kinase erbB-1)	EGFR ERBB ERBB1 HER1	Homo sapiens (Human)	1210
+Q01279	EGFR_MOUSE	reviewed	Epidermal growth factor receptor (EC 2.7.10.1)	Egfr	Mus musculus (Mouse)	1210
+P55245	EGFR_MACMU	reviewed	Epidermal growth factor receptor (EC 2.7.10.1)	EGFR	Macaca mulatta (Rhesus macaque)	1210
+P09759	EPHB1_RAT	reviewed	Ephrin type-B receptor 1 (EC 2.7.10.1) (ELK) (Tyrosine-protein kinase receptor EPH-2)	Ephb1 Elk Epth2	Rattus norvegicus (Rat)	984
+P54762	EPHB1_HUMAN	reviewed	Ephrin type-B receptor 1 (EC 2.7.10.1) (ELK) (EPH tyrosine kinase 2) (EPH-like kinase 6) (EK6) (hEK6) (Neuronally-expressed EPH-related tyrosine kinase) (NET) (Tyrosine-protein kinase receptor EPH-2)	EPHB1 ELK EPHT2 HEK6 NET	Homo sapiens (Human)	984
+Q8CBF3	EPHB1_MOUSE	reviewed	Ephrin type-B receptor 1 (EC 2.7.10.1)	Ephb1	Mus musculus (Mouse)	984
+P06494	ERBB2_RAT	reviewed	Receptor tyrosine-protein kinase erbB-2 (EC 2.7.10.1) (Epidermal growth factor receptor-related protein) (Proto-oncogene Neu) (Proto-oncogene c-ErbB-2) (p185erbB2) (p185neu) (CD antigen CD340)	Erbb2 Neu	Rattus norvegicus (Rat)	1257
+Q62956	ERBB4_RAT	reviewed	Receptor tyrosine-protein kinase erbB-4 (EC 2.7.10.1) (Proto-oncogene-like protein c-ErbB-4) [Cleaved into: ERBB4 intracellular domain (4ICD) (E4ICD) (s80HER4)]	Erbb4 Tyro-2	Rattus norvegicus (Rat)	1308
+Q01362	FCERB_HUMAN	reviewed	High affinity immunoglobulin epsilon receptor subunit beta (FcERI) (Fc epsilon receptor I beta-chain) (IgE Fc receptor subunit beta) (Membrane-spanning 4-domains subfamily A member 2)	MS4A2 APY FCER1B IGER	Homo sapiens (Human)	244
+P20491	FCERG_MOUSE	reviewed	High affinity immunoglobulin epsilon receptor subunit gamma (Fc receptor gamma-chain) (FcRgamma) (Fc-epsilon RI-gamma) (IgE Fc receptor subunit gamma) (FceRI gamma)	Fcer1g Fce1g	Mus musculus (Mouse)	86
+P20490	FCERB_MOUSE	reviewed	High affinity immunoglobulin epsilon receptor subunit beta (FcERI) (Fc epsilon receptor I beta-chain) (IgE Fc receptor subunit beta) (Membrane-spanning 4-domains subfamily A member 2)	Ms4a2 Fce1b Fcer1b Ms4a1	Mus musculus (Mouse)	235
+P13386	FCERB_RAT	reviewed	High affinity immunoglobulin epsilon receptor subunit beta (FcERI) (Fc epsilon receptor I beta-chain) (IgE Fc receptor subunit beta) (Membrane-spanning 4-domains subfamily A member 2)	Ms4a2 Fce1b Fcer1b	Rattus norvegicus (Rat)	243
+P20489	FCERA_MOUSE	reviewed	High affinity immunoglobulin epsilon receptor subunit alpha (Fc-epsilon RI-alpha) (FcERI) (IgE Fc receptor subunit alpha)	Fcer1a Fce1a	Mus musculus (Mouse)	250
+P09958	FURIN_HUMAN	reviewed	Furin (EC 3.4.21.75) (Dibasic-processing enzyme) (Paired basic amino acid residue-cleaving enzyme) (PACE)	FURIN FUR PACE PCSK3	Homo sapiens (Human)	794
+P23188	FURIN_MOUSE	reviewed	Furin (EC 3.4.21.75) (Dibasic-processing enzyme) (Paired basic amino acid residue-cleaving enzyme) (PACE) (Prohormone convertase 3)	Furin Fur Pcsk3	Mus musculus (Mouse)	793
+Q9Z0U4	GABR1_RAT	reviewed	Gamma-aminobutyric acid type B receptor subunit 1 (GABA-B receptor 1) (GABA-B-R1) (GABA-BR1) (GABABR1) (Gb1)	Gabbr1	Rattus norvegicus (Rat)	991
+Q95254	GHSR_PIG	reviewed	Growth hormone secretagogue receptor type 1 (GHS-R) (GH-releasing peptide receptor) (GHRP) (Ghrelin receptor)	GHSR	Sus scrofa (Pig)	366
+A5A4L1	GHSR_MUSPF	reviewed	Growth hormone secretagogue receptor type 1 (GHS-R) (GH-releasing peptide receptor) (GHRP) (Ghrelin receptor)	GHSR	Mustela putorius furo (European domestic ferret) (Mustela furo)	366
+Q99P50	GHSR_MOUSE	reviewed	Growth hormone secretagogue receptor type 1 (GHS-R) (GH-releasing peptide receptor) (GHRP) (Ghrelin receptor)	Ghsr	Mus musculus (Mouse)	364
+O08725	GHSR_RAT	reviewed	Growth hormone secretagogue receptor type 1 (GHS-R) (GH-releasing peptide receptor) (GHRP) (Ghrelin receptor)	Ghsr	Rattus norvegicus (Rat)	364
+A5A4K9	GHSR_RABIT	reviewed	Growth hormone secretagogue receptor type 1 (GHS-R) (GH-releasing peptide receptor) (GHRP) (Ghrelin receptor)	GHSR	Oryctolagus cuniculus (Rabbit)	366
+Q92847	GHSR_HUMAN	reviewed	Growth hormone secretagogue receptor type 1 (GHS-R) (GH-releasing peptide receptor) (GHRP) (Ghrelin receptor)	GHSR	Homo sapiens (Human)	366
+P35803	GPM6B_MOUSE	reviewed	Neuronal membrane glycoprotein M6-b (M6b)	Gpm6b M6b	Mus musculus (Mouse)	328
+Q5R603	GPM6B_PONAB	reviewed	Neuronal membrane glycoprotein M6-b (M6b)	GPM6B M6B	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	265
+Q9JJK1	GPM6B_RAT	reviewed	Neuronal membrane glycoprotein M6-b (M6b) (Rhombencephalic expression protein-29 kDa) (Rhombex-29)	Gpm6b M6b rhombex-29	Rattus norvegicus (Rat)	265
+Q13491	GPM6B_HUMAN	reviewed	Neuronal membrane glycoprotein M6-b (M6b)	GPM6B M6B	Homo sapiens (Human)	265
+P11166	GTR1_HUMAN	reviewed	Solute carrier family 2, facilitated glucose transporter member 1 (Glucose transporter type 1, erythrocyte/brain) (GLUT-1) (HepG2 glucose transporter)	SLC2A1 GLUT1	Homo sapiens (Human)	492
+P17809	GTR1_MOUSE	reviewed	Solute carrier family 2, facilitated glucose transporter member 1 (Glucose transporter type 1, erythrocyte/brain) (GLUT-1) (GT1)	Slc2a1 Glut-1 Glut1	Mus musculus (Mouse)	492
+Q07647	GTR3_RAT	reviewed	Solute carrier family 2, facilitated glucose transporter member 3 (Glucose transporter type 3, brain) (GLUT-3)	Slc2a3 Glut-3 Glut3	Rattus norvegicus (Rat)	493
+P11167	GTR1_RAT	reviewed	Solute carrier family 2, facilitated glucose transporter member 1 (Glucose transporter type 1, erythrocyte/brain) (GLUT-1)	Slc2a1 Glut-1 Glut1	Rattus norvegicus (Rat)	492
+P08069	IGF1R_HUMAN	reviewed	Insulin-like growth factor 1 receptor (EC 2.7.10.1) (Insulin-like growth factor I receptor) (IGF-I receptor) (CD antigen CD221) [Cleaved into: Insulin-like growth factor 1 receptor alpha chain; Insulin-like growth factor 1 receptor beta chain]	IGF1R	Homo sapiens (Human)	1367
+Q60751	IGF1R_MOUSE	reviewed	Insulin-like growth factor 1 receptor (EC 2.7.10.1) (Insulin-like growth factor I receptor) (IGF-I receptor) (CD antigen CD221) [Cleaved into: Insulin-like growth factor 1 receptor alpha chain; Insulin-like growth factor 1 receptor beta chain]	Igf1r	Mus musculus (Mouse)	1373
+P24062	IGF1R_RAT	reviewed	Insulin-like growth factor 1 receptor (EC 2.7.10.1) (Insulin-like growth factor I receptor) (IGF-I receptor) (CD antigen CD221) [Cleaved into: Insulin-like growth factor 1 receptor alpha chain; Insulin-like growth factor 1 receptor beta chain]	Igf1r	Rattus norvegicus (Rat)	1370
+P06213	INSR_HUMAN	reviewed	Insulin receptor (IR) (EC 2.7.10.1) (CD antigen CD220) [Cleaved into: Insulin receptor subunit alpha; Insulin receptor subunit beta]	INSR	Homo sapiens (Human)	1382
+P15208	INSR_MOUSE	reviewed	Insulin receptor (IR) (EC 2.7.10.1) (CD antigen CD220) [Cleaved into: Insulin receptor subunit alpha; Insulin receptor subunit beta]	Insr	Mus musculus (Mouse)	1372
+Q3V3R4	ITA1_MOUSE	reviewed	Integrin alpha-1 (CD49 antigen-like family member A) (Laminin and collagen receptor) (VLA-1) (CD antigen CD49a)	Itga1	Mus musculus (Mouse)	1179
+P56199	ITA1_HUMAN	reviewed	Integrin alpha-1 (CD49 antigen-like family member A) (Laminin and collagen receptor) (VLA-1) (CD antigen CD49a)	ITGA1	Homo sapiens (Human)	1179
+P18614	ITA1_RAT	reviewed	Integrin alpha-1 (CD49 antigen-like family member A) (Laminin and collagen receptor) (VLA-1) (CD antigen CD49a)	Itga1	Rattus norvegicus (Rat)	1180
+P05556	ITB1_HUMAN	reviewed	Integrin beta-1 (Fibronectin receptor subunit beta) (Glycoprotein IIa) (GPIIA) (VLA-4 subunit beta) (CD antigen CD29)	ITGB1 FNRB MDF2 MSK12	Homo sapiens (Human)	798
+P09055	ITB1_MOUSE	reviewed	Integrin beta-1 (Fibronectin receptor subunit beta) (VLA-4 subunit beta) (CD antigen CD29)	Itgb1	Mus musculus (Mouse)	798
+P11835	ITB2_MOUSE	reviewed	Integrin beta-2 (Cell surface adhesion glycoproteins LFA-1/CR3/p150,95 subunit beta) (Complement receptor C3 subunit beta) (CD antigen CD18)	Itgb2	Mus musculus (Mouse)	771
+P49134	ITB1_RAT	reviewed	Integrin beta-1 (Beta oligodendroglia) (Beta OL) (Fibronectin receptor subunit beta) (VLA-4 subunit beta) (CD antigen CD29)	Itgb1	Rattus norvegicus (Rat)	799
+P29994	ITPR1_RAT	reviewed	Inositol 1,4,5-trisphosphate receptor type 1 (IP3 receptor isoform 1) (IP-3-R) (IP3R 1) (InsP3R1) (Type 1 inositol 1,4,5-trisphosphate receptor) (Type 1 InsP3 receptor)	Itpr1 Insp3r	Rattus norvegicus (Rat)	2750
+Q28204	KCMA1_BOVIN	reviewed	Calcium-activated potassium channel subunit alpha-1 (BK channel) (BKCA alpha) (Calcium-activated potassium channel, subfamily M subunit alpha-1) (K(VCA)alpha) (KCa1.1) (Maxi K channel) (MaxiK) (Slo-alpha) (Slo1) (Slowpoke homolog) (Slo homolog) (bSlo)	KCNMA1 KCNMA	Bos taurus (Bovine)	1166
+Q12791	KCMA1_HUMAN	reviewed	Calcium-activated potassium channel subunit alpha-1 (BK channel) (BKCA alpha) (Calcium-activated potassium channel, subfamily M subunit alpha-1) (K(VCA)alpha) (KCa1.1) (Maxi K channel) (MaxiK) (Slo-alpha) (Slo1) (Slowpoke homolog) (Slo homolog) (hSlo)	KCNMA1 KCNMA SLO	Homo sapiens (Human)	1236
+P22001	KCNA3_HUMAN	reviewed	Potassium voltage-gated channel subfamily A member 3 (HGK5) (HLK3) (HPCN3) (Voltage-gated K(+) channel HuKIII) (Voltage-gated potassium channel subunit Kv1.3)	KCNA3 HGK5	Homo sapiens (Human)	575
+P16390	KCNA3_MOUSE	reviewed	Potassium voltage-gated channel subfamily A member 3 (MK3) (Voltage-gated potassium channel subunit Kv1.3)	Kcna3	Mus musculus (Mouse)	528
+P15384	KCNA3_RAT	reviewed	Potassium voltage-gated channel subfamily A member 3 (RCK3) (RGK5) (Voltage-gated potassium channel subunit Kv1.3) (Voltage-gated potassium channel subunit Kv3)	Kcna3	Rattus norvegicus (Rat)	525
+P79197	KCNA5_MUSPF	reviewed	Potassium voltage-gated channel subfamily A member 5 (Voltage-gated potassium channel subunit Kv1.5)	KCNA5	Mustela putorius furo (European domestic ferret) (Mustela furo)	601
+P19024	KCNA5_RAT	reviewed	Potassium voltage-gated channel subfamily A member 5 (RCK7) (RK4) (Voltage-gated potassium channel subunit Kv1.5)	Kcna5	Rattus norvegicus (Rat)	602
+Q61762	KCNA5_MOUSE	reviewed	Potassium voltage-gated channel subfamily A member 5 (Voltage-gated potassium channel subunit Kv1.5) (KV1-5)	Kcna5	Mus musculus (Mouse)	602
+P50638	KCNA5_RABIT	reviewed	Potassium voltage-gated channel subfamily A member 5 (Voltage-gated potassium channel subunit Kv1.5)	KCNA5	Oryctolagus cuniculus (Rabbit)	598
+P22460	KCNA5_HUMAN	reviewed	Potassium voltage-gated channel subfamily A member 5 (HPCN1) (Voltage-gated potassium channel HK2) (Voltage-gated potassium channel subunit Kv1.5)	KCNA5	Homo sapiens (Human)	613
+O89109	KCNN4_MOUSE	reviewed	Intermediate conductance calcium-activated potassium channel protein 4 (SK4) (SKCa 4) (SKCa4) (IK1) (KCa3.1) (KCa4)	Kcnn4	Mus musculus (Mouse)	425
+Q9QYW1	KCNN4_RAT	reviewed	Intermediate conductance calcium-activated potassium channel protein 4 (SK4) (SKCa 4) (SKCa4) (IK1) (KCa3.1) (KCa4)	Kcnn4 Ik1 Sk4 Smik	Rattus norvegicus (Rat)	425
+O15554	KCNN4_HUMAN	reviewed	Intermediate conductance calcium-activated potassium channel protein 4 (SK4) (SKCa 4) (SKCa4) (IKCa1) (IK1) (KCa3.1) (KCa4) (Putative Gardos channel)	KCNN4 IK1 IKCA1 KCA4 SK4	Homo sapiens (Human)	427
+Q6X936	KIRR1_RAT	reviewed	Kin of IRRE-like protein 1 (Kin of irregular chiasm-like protein 1) (Nephrin-like protein 1)	Kirrel Kirrel1 Neph1	Rattus norvegicus (Rat)	789
+Q05695	L1CAM_RAT	reviewed	Neural cell adhesion molecule L1 (N-CAM-L1) (NCAM-L1) (Nerve-growth factor-inducible large external glycoprotein) (NILE) (CD antigen CD171)	L1cam Caml1	Rattus norvegicus (Rat)	1259
+O43561	LAT_HUMAN	reviewed	Linker for activation of T-cells family member 1 (36 kDa phospho-tyrosine adapter protein) (pp36) (p36-38)	LAT	Homo sapiens (Human)	262
+P35952	LDLR_RAT	reviewed	Low-density lipoprotein receptor (LDL receptor)	Ldlr	Rattus norvegicus (Rat)	879
+Q5R4I4	LFG2_PONAB	reviewed	Protein lifeguard 2 (Fas apoptotic inhibitory molecule 2)	FAIM2 LFG2	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	316
+Q1LZ71	LFG2_BOVIN	reviewed	Protein lifeguard 2 (Fas apoptotic inhibitory molecule 2)	FAIM2 LFG2	Bos taurus (Bovine)	316
+O88407	LFG2_RAT	reviewed	Protein lifeguard 2 (Fas apoptotic inhibitory molecule 2) (Neural membrane protein 35)	Faim2 Lfg Lfg2 Nmp35	Rattus norvegicus (Rat)	316
+Q8K097	LFG2_MOUSE	reviewed	Protein lifeguard 2 (Fas apoptotic inhibitory molecule 2) (Neural membrane protein 35)	Faim2 Kiaa0950 Lfg Lfg2 Nmp35	Mus musculus (Mouse)	317
+Q9BWQ8	LFG2_HUMAN	reviewed	Protein lifeguard 2 (Fas apoptotic inhibitory molecule 2) (Neural membrane protein 35) (Transmembrane BAX inhibitor motif-containing protein 2)	FAIM2 KIAA0950 LFG LFG2 NMP35 TMBIM2	Homo sapiens (Human)	316
+P98158	LRP2_RAT	reviewed	Low-density lipoprotein receptor-related protein 2 (LRP-2) (Glycoprotein 330) (gp330) (Megalin)	Lrp2	Rattus norvegicus (Rat)	4660
+Q14114	LRP8_HUMAN	reviewed	Low-density lipoprotein receptor-related protein 8 (LRP-8) (Apolipoprotein E receptor 2)	LRP8 APOER2	Homo sapiens (Human)	963
+O88572	LRP6_MOUSE	reviewed	Low-density lipoprotein receptor-related protein 6 (LRP-6)	Lrp6	Mus musculus (Mouse)	1613
+Q00690	LYAM2_MOUSE	reviewed	E-selectin (CD62 antigen-like family member E) (Endothelial leukocyte adhesion molecule 1) (ELAM-1) (Leukocyte-endothelial cell adhesion molecule 2) (LECAM2) (CD antigen CD62E)	Sele Elam-1	Mus musculus (Mouse)	612
+P27113	LYAM2_RABIT	reviewed	E-selectin (CD62 antigen-like family member E) (Endothelial leukocyte adhesion molecule 1) (ELAM-1) (Leukocyte-endothelial cell adhesion molecule 2) (LECAM2) (CD antigen CD62E)	SELE	Oryctolagus cuniculus (Rabbit)	551
+P98105	LYAM2_RAT	reviewed	E-selectin (CD62 antigen-like family member E) (Endothelial leukocyte adhesion molecule 1) (ELAM-1) (Leukocyte-endothelial cell adhesion molecule 2) (LECAM2) (CD antigen CD62E)	Sele Elam-1	Rattus norvegicus (Rat)	549
+P16581	LYAM2_HUMAN	reviewed	E-selectin (CD62 antigen-like family member E) (Endothelial leukocyte adhesion molecule 1) (ELAM-1) (Leukocyte-endothelial cell adhesion molecule 2) (LECAM2) (CD antigen CD62E)	SELE ELAM1	Homo sapiens (Human)	610
+Q13021	MALL_HUMAN	reviewed	MAL-like protein (Protein BENE)	MALL BENE	Homo sapiens (Human)	153
+Q91X49	MALL_MOUSE	reviewed	MAL-like protein (Protein BENE)	Mall Bene	Mus musculus (Mouse)	154
+O09198	MAL_MOUSE	reviewed	Myelin and lymphocyte protein (T-lymphocyte maturation-associated protein)	Mal	Mus musculus (Mouse)	153
+P21145	MAL_HUMAN	reviewed	Myelin and lymphocyte protein (T-lymphocyte maturation-associated protein)	MAL	Homo sapiens (Human)	153
+Q64349	MAL_RAT	reviewed	Myelin and lymphocyte protein (17 kDa myelin vesicular protein) (MVP17) (NS 3) (T-lymphocyte maturation-associated protein)	Mal Mvp17	Rattus norvegicus (Rat)	153
+Q8VHK5	MLC1_MOUSE	reviewed	Membrane protein MLC1	Mlc1	Mus musculus (Mouse)	382
+Q60HE7	MLC1_MACFA	reviewed	Membrane protein MLC1	MLC1 QflA-15415	Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey)	377
+Q15049	MLC1_HUMAN	reviewed	Membrane protein MLC1	MLC1 KIAA0027 WKL1	Homo sapiens (Human)	377
+Q9NZM1	MYOF_HUMAN	reviewed	Myoferlin (Fer-1-like protein 3)	MYOF FER1L3 KIAA1207	Homo sapiens (Human)	2061
+Q69ZN7	MYOF_MOUSE	reviewed	Myoferlin (Fer-1-like protein 3)	Myof Fer1l3 Kiaa1207	Mus musculus (Mouse)	2048
+P48765	NAC1_BOVIN	reviewed	Sodium/calcium exchanger 1 (Na(+)/Ca(2+)-exchange protein 1) (Solute carrier family 8 member 1)	SLC8A1	Bos taurus (Bovine)	970
+Q8NET5	NFAM1_HUMAN	reviewed	NFAT activation molecule 1 (Calcineurin/NFAT-activating ITAM-containing protein) (NFAT-activating protein with ITAM motif 1)	NFAM1 CNAIP	Homo sapiens (Human)	270
+Q8R4V1	NFAM1_MOUSE	reviewed	NFAT activation molecule 1 (Calcineurin/NFAT-activating ITAM-containing protein) (NFAT-activating protein with ITAM motif 1)	Nfam1 Cnaip	Mus musculus (Mouse)	264
+O15118	NPC1_HUMAN	reviewed	Niemann-Pick C1 protein	NPC1	Homo sapiens (Human)	1278
+O35604	NPC1_MOUSE	reviewed	Niemann-Pick C1 protein	Npc1	Mus musculus (Mouse)	1277
+Q9R044	NPHN_RAT	reviewed	Nephrin (Renal glomerulus-specific cell adhesion receptor)	Nphs1 Nphn	Rattus norvegicus (Rat)	1252
+Q9QZS7	NPHN_MOUSE	reviewed	Nephrin (Renal glomerulus-specific cell adhesion receptor)	Nphs1 Nphn	Mus musculus (Mouse)	1256
+O60500	NPHN_HUMAN	reviewed	Nephrin (Renal glomerulus-specific cell adhesion receptor)	NPHS1 NPHN	Homo sapiens (Human)	1241
+Q06495	NPT2A_HUMAN	reviewed	Sodium-dependent phosphate transport protein 2A (Sodium-phosphate transport protein 2A) (Na(+)-dependent phosphate cotransporter 2A) (NaPi-3) (Sodium/phosphate cotransporter 2A) (Na(+)/Pi cotransporter 2A) (NaPi-2a) (Solute carrier family 34 member 1)	SLC34A1 NPT2 SLC17A2	Homo sapiens (Human)	639
+Q06496	NPT2A_RAT	reviewed	Sodium-dependent phosphate transport protein 2A (Sodium-phosphate transport protein 2A) (Na(+)-dependent phosphate cotransporter 2A) (Sodium/phosphate cotransporter 2A) (Na(+)/Pi cotransporter 2A) (NaPi-2a) (Solute carrier family 34 member 1)	Slc34a1 Slc17a2	Rattus norvegicus (Rat)	637
+O70572	NSMA_MOUSE	reviewed	Sphingomyelin phosphodiesterase 2 (EC 3.1.4.12) (Lyso-platelet-activating factor-phospholipase C) (Lyso-PAF-PLC) (Neutral sphingomyelinase) (N-SMase) (nSMase)	Smpd2	Mus musculus (Mouse)	419
+Q9ET64	NSMA_RAT	reviewed	Sphingomyelin phosphodiesterase 2 (EC 3.1.4.12) (Lyso-platelet-activating factor-phospholipase C) (Lyso-PAF-PLC) (Neutral sphingomyelinase) (N-SMase) (nSMase)	Smpd2	Rattus norvegicus (Rat)	422
+O60906	NSMA_HUMAN	reviewed	Sphingomyelin phosphodiesterase 2 (EC 3.1.4.12) (Lyso-platelet-activating factor-phospholipase C) (Lyso-PAF-PLC) (Neutral sphingomyelinase) (N-SMase) (nSMase)	SMPD2	Homo sapiens (Human)	423
+Q9GZY6	NTAL_HUMAN	reviewed	Linker for activation of T-cells family member 2 (Linker for activation of B-cells) (Membrane-associated adapter molecule) (Non-T-cell activation linker) (Williams-Beuren syndrome chromosomal region 15 protein) (Williams-Beuren syndrome chromosomal region 5 protein)	LAT2 LAB NTAL WBS15 WBSCR15 WBSCR5 HSPC046	Homo sapiens (Human)	243
+Q9JHL0	NTAL_MOUSE	reviewed	Linker for activation of T-cells family member 2 (Linker for activation of B-cells) (Membrane-associated adapter molecule) (Non-T-cell activation linker) (Williams-Beuren syndrome chromosomal region 15 protein homolog)	Lat2 Lab Ntal Wbscr15 Wbscr5	Mus musculus (Mouse)	203
+P79391	OLR1_BOVIN	reviewed	Oxidized low-density lipoprotein receptor 1 (Ox-LDL receptor 1) (Lectin-like oxidized LDL receptor 1) (LOX-1) (Lectin-like oxLDL receptor 1) (bLOX-1) (Lectin-type oxidized LDL receptor 1) [Cleaved into: Oxidized low-density lipoprotein receptor 1, soluble form A; Oxidized low-density lipoprotein receptor 1, soluble form B]	OLR1 LOX1	Bos taurus (Bovine)	270
+Q9XTA8	OLR1_RABIT	reviewed	Oxidized low-density lipoprotein receptor 1 (Ox-LDL receptor 1) (Lectin-like oxidized LDL receptor 1) (LOX-1) (Lectin-like oxLDL receptor 1) (Lectin-type oxidized LDL receptor 1) [Cleaved into: Oxidized low-density lipoprotein receptor 1, soluble form]	OLR1 LOX1	Oryctolagus cuniculus (Rabbit)	274
+Q9TTK7	OLR1_PIG	reviewed	Oxidized low-density lipoprotein receptor 1 (Ox-LDL receptor 1) (Lectin-like oxidized LDL receptor 1) (LOX-1) (Lectin-like oxLDL receptor 1) (Lectin-type oxidized LDL receptor 1) [Cleaved into: Oxidized low-density lipoprotein receptor 1, soluble form]	OLR1 LOX1	Sus scrofa (Pig)	274
+O70156	OLR1_RAT	reviewed	Oxidized low-density lipoprotein receptor 1 (Ox-LDL receptor 1) (Lectin-like oxidized LDL receptor 1) (LOX-1) (Lectin-like oxLDL receptor 1) (Lectin-type oxidized LDL receptor 1) [Cleaved into: Oxidized low-density lipoprotein receptor 1, soluble form]	Olr1 Lox1 Oldlr1	Rattus norvegicus (Rat)	364
+Q9EQ09	OLR1_MOUSE	reviewed	Oxidized low-density lipoprotein receptor 1 (Ox-LDL receptor 1) (Lectin-like oxidized LDL receptor 1) (LOX-1) (Lectin-like oxLDL receptor 1) (Lectin-type oxidized LDL receptor 1) [Cleaved into: Oxidized low-density lipoprotein receptor 1, soluble form]	Olr1 Lox1	Mus musculus (Mouse)	363
+P78380	OLR1_HUMAN	reviewed	Oxidized low-density lipoprotein receptor 1 (Ox-LDL receptor 1) (C-type lectin domain family 8 member A) (Lectin-like oxidized LDL receptor 1) (LOX-1) (Lectin-like oxLDL receptor 1) (hLOX-1) (Lectin-type oxidized LDL receptor 1) [Cleaved into: Oxidized low-density lipoprotein receptor 1, soluble form]	OLR1 CLEC8A LOX1	Homo sapiens (Human)	273
+P41143	OPRD_HUMAN	reviewed	Delta-type opioid receptor (D-OR-1) (DOR-1)	OPRD1 OPRD	Homo sapiens (Human)	372
+P32300	OPRD_MOUSE	reviewed	Delta-type opioid receptor (D-OR-1) (DOR-1) (K56) (MSL-2)	Oprd1	Mus musculus (Mouse)	372
+P33533	OPRD_RAT	reviewed	Delta-type opioid receptor (D-OR-1) (DOR-1) (Opioid receptor A)	Oprd1 Ror-a	Rattus norvegicus (Rat)	372
+P47824	P2RX1_RAT	reviewed	P2X purinoceptor 1 (P2X1) (ATP receptor) (Purinergic receptor) (RP-2 protein)	P2rx1	Rattus norvegicus (Rat)	399
+P51576	P2RX1_MOUSE	reviewed	P2X purinoceptor 1 (P2X1) (ATP receptor) (Purinergic receptor)	P2rx1	Mus musculus (Mouse)	399
+Q3UR32	P2RX3_MOUSE	reviewed	P2X purinoceptor 3 (P2X3) (ATP receptor) (Purinergic receptor)	P2rx3	Mus musculus (Mouse)	397
+P49654	P2RX3_RAT	reviewed	P2X purinoceptor 3 (P2X3) (ATP receptor) (Purinergic receptor)	P2rx3	Rattus norvegicus (Rat)	397
+P56373	P2RX3_HUMAN	reviewed	P2X purinoceptor 3 (P2X3) (ATP receptor) (Purinergic receptor)	P2RX3	Homo sapiens (Human)	397
+P51575	P2RX1_HUMAN	reviewed	P2X purinoceptor 1 (P2X1) (ATP receptor) (Purinergic receptor)	P2RX1 P2X1	Homo sapiens (Human)	399
+Q9CPV9	P2Y12_MOUSE	reviewed	P2Y purinoceptor 12 (P2Y12)	P2ry12	Mus musculus (Mouse)	347
+Q64663	P2RX7_RAT	reviewed	P2X purinoceptor 7 (P2X7) (ATP receptor) (P2Z receptor) (Purinergic receptor)	P2rx7	Rattus norvegicus (Rat)	595
+Q9Z1M0	P2RX7_MOUSE	reviewed	P2X purinoceptor 7 (P2X7) (ATP receptor) (P2Z receptor) (Purinergic receptor)	P2rx7 P2x7	Mus musculus (Mouse)	595
+Q9EPX4	P2Y12_RAT	reviewed	P2Y purinoceptor 12 (P2Y12) (P2Y12 platelet ADP receptor)	P2ry12 P2y12	Rattus norvegicus (Rat)	343
+Q99572	P2RX7_HUMAN	reviewed	P2X purinoceptor 7 (P2X7) (ATP receptor) (P2Z receptor) (Purinergic receptor)	P2RX7	Homo sapiens (Human)	595
+Q9H244	P2Y12_HUMAN	reviewed	P2Y purinoceptor 12 (P2Y12) (ADP-glucose receptor) (ADPG-R) (P2T(AC)) (P2Y(AC)) (P2Y(cyc)) (P2Y12 platelet ADP receptor) (P2Y(ADP)) (SP1999)	P2RY12 HORK3	Homo sapiens (Human)	342
+P41586	PACR_HUMAN	reviewed	Pituitary adenylate cyclase-activating polypeptide type I receptor (PACAP type I receptor) (PACAP-R-1) (PACAP-R1)	ADCYAP1R1	Homo sapiens (Human)	468
+P32215	PACR_RAT	reviewed	Pituitary adenylate cyclase-activating polypeptide type I receptor (PACAP type I receptor) (PACAP-R-1) (PACAP-R1)	Adcyap1r1	Rattus norvegicus (Rat)	523
+P70205	PACR_MOUSE	reviewed	Pituitary adenylate cyclase-activating polypeptide type I receptor (PACAP type I receptor) (PACAP-R-1) (PACAP-R1)	Adcyap1r1	Mus musculus (Mouse)	496
+P30558	PAR1_MOUSE	reviewed	Proteinase-activated receptor 1 (PAR-1) (Thrombin receptor)	F2r Cf2r Par1	Mus musculus (Mouse)	430
+Q00991	PAR1_CRILO	reviewed	Proteinase-activated receptor 1 (PAR-1) (Thrombin receptor)	F2R PAR1	Cricetulus longicaudatus (Long-tailed dwarf hamster) (Chinese hamster)	428
+A7YY44	PAR1_BOVIN	reviewed	Proteinase-activated receptor 1 (PAR-1) (Thrombin receptor)	F2R PAR1	Bos taurus (Bovine)	427
+P25116	PAR1_HUMAN	reviewed	Proteinase-activated receptor 1 (PAR-1) (Coagulation factor II receptor) (Thrombin receptor)	F2R CF2R PAR1 TR	Homo sapiens (Human)	425
+P26824	PAR1_RAT	reviewed	Proteinase-activated receptor 1 (PAR-1) (Thrombin receptor)	F2r Par1	Rattus norvegicus (Rat)	432
+P56488	PAR1_PAPHA	reviewed	Proteinase-activated receptor 1 (PAR-1) (Thrombin receptor)	F2R BTHR12 PAR1	Papio hamadryas (Hamadryas baboon)	425
+Q08481	PECA1_MOUSE	reviewed	Platelet endothelial cell adhesion molecule (PECAM-1) (CD antigen CD31)	Pecam1 Pecam Pecam-1	Mus musculus (Mouse)	727
+Q95242	PECA1_PIG	reviewed	Platelet endothelial cell adhesion molecule (PECAM-1) (CD antigen CD31)	PECAM1	Sus scrofa (Pig)	740
+Q3SWT0	PECA1_RAT	reviewed	Platelet endothelial cell adhesion molecule (PECAM-1) (CD antigen CD31)	Pecam1 Pecam	Rattus norvegicus (Rat)	678
+Q9NWQ8	PHAG1_HUMAN	reviewed	Phosphoprotein associated with glycosphingolipid-enriched microdomains 1 (Csk-binding protein) (Transmembrane adapter protein PAG) (Transmembrane phosphoprotein Cbp)	PAG1 CBP PAG	Homo sapiens (Human)	432
+Q3U1F9	PHAG1_MOUSE	reviewed	Phosphoprotein associated with glycosphingolipid-enriched microdomains 1 (Csk-binding protein) (Transmembrane phosphoprotein Cbp)	Pag1 Cbp Pag	Mus musculus (Mouse)	429
+P47987	PLLP_RAT	reviewed	Plasmolipin (Plasma membrane proteolipid)	Pllp Pmlp Tm4sf11	Rattus norvegicus (Rat)	182
+Q9DCU2	PLLP_MOUSE	reviewed	Plasmolipin (Plasma membrane proteolipid)	Pllp Plapi Pmlp Tm4sf11	Mus musculus (Mouse)	182
+Q9Y342	PLLP_HUMAN	reviewed	Plasmolipin (Plasma membrane proteolipid)	PLLP PMLP TM4SF11	Homo sapiens (Human)	182
+O15162	PLS1_HUMAN	reviewed	Phospholipid scramblase 1 (PL scramblase 1) (Ca(2+)-dependent phospholipid scramblase 1) (Erythrocyte phospholipid scramblase) (MmTRA1b)	PLSCR1	Homo sapiens (Human)	318
+Q9JJ00	PLS1_MOUSE	reviewed	Phospholipid scramblase 1 (PL scramblase 1) (Ca(2+)-dependent phospholipid scramblase 1) (Transplantability-associated protein 1) (NOR1) (TRA1)	Plscr1 Tra1b Tras1	Mus musculus (Mouse)	328
+P58195	PLS1_RAT	reviewed	Phospholipid scramblase 1 (PL scramblase 1) (Ca(2+)-dependent phospholipid scramblase 1)	Plscr1	Rattus norvegicus (Rat)	335
+Q9BX97	PLVAP_HUMAN	reviewed	Plasmalemma vesicle-associated protein (Fenestrated endothelial-linked structure protein) (Plasmalemma vesicle protein 1) (PV-1)	PLVAP FELS PV1	Homo sapiens (Human)	442
+Q91VC4	PLVAP_MOUSE	reviewed	Plasmalemma vesicle-associated protein (MECA-32 antigen) (Plasmalemma vesicle protein 1) (PV-1)	Plvap Pv1	Mus musculus (Mouse)	438
+Q9WV78	PLVAP_RAT	reviewed	Plasmalemma vesicle-associated protein (Plasmalemma vesicle protein 1) (PV-1) (gp68)	Plvap Pv1	Rattus norvegicus (Rat)	438
+Q52S86	PODXL_CANFA	reviewed	Podocalyxin (Gp135) (Podocalyxin-like protein 1) (PC) (PC-like protein 1) (PCLP-1) (cPCLP1)	PODXL PCLP PCLP1	Canis familiaris (Dog) (Canis lupus familiaris)	571
+O00592	PODXL_HUMAN	reviewed	Podocalyxin (GCTM-2 antigen) (Gp200) (Podocalyxin-like protein 1) (PC) (PCLP-1)	PODXL PCLP PCLP1	Homo sapiens (Human)	558
+Q28645	PODXL_RABIT	reviewed	Podocalyxin (Podocalyxin-like protein 1) (PC) (PCLP-1)	PODXL PCLP1	Oryctolagus cuniculus (Rabbit)	551
+Q9R0M4	PODXL_MOUSE	reviewed	Podocalyxin (Podocalyxin-like protein 1) (PC) (PCLP-1)	Podxl Pclp1	Mus musculus (Mouse)	503
+Q8K4G9	PODO_RAT	reviewed	Podocin	Nphs2	Rattus norvegicus (Rat)	383
+Q9WTQ2	PODXL_RAT	reviewed	Podocalyxin (Podocalyxin-like protein 1) (PC) (PCLP-1)	Podxl Pclp1	Rattus norvegicus (Rat)	485
+Q91X05	PODO_MOUSE	reviewed	Podocin	Nphs2	Mus musculus (Mouse)	385
+Q9ESD1	PRSS8_MOUSE	reviewed	Prostasin (EC 3.4.21.-) (Channel-activating protease 1) (CAP1) (Serine protease 8) [Cleaved into: Prostasin light chain; Prostasin heavy chain]	Prss8 Cap1	Mus musculus (Mouse)	342
+Q6RH31	PSN1_CANFA	reviewed	Presenilin-1 (PS-1) (EC 3.4.23.-) [Cleaved into: Presenilin-1 NTF subunit; Presenilin-1 CTF subunit; Presenilin-1 CTF12 (PS1-CTF12)]	PSEN1	Canis familiaris (Dog) (Canis lupus familiaris)	466
+Q9XT96	PSN2_BOVIN	reviewed	Presenilin-2 (PS-2) (EC 3.4.23.-) [Cleaved into: Presenilin-2 NTF subunit; Presenilin-2 CTF subunit]	PSEN2	Bos taurus (Bovine)	449
+P49810	PSN2_HUMAN	reviewed	Presenilin-2 (PS-2) (EC 3.4.23.-) (AD3LP) (AD5) (E5-1) (STM-2) [Cleaved into: Presenilin-2 NTF subunit; Presenilin-2 CTF subunit]	PSEN2 AD4 PS2 PSNL2 STM2	Homo sapiens (Human)	448
+Q61144	PSN2_MOUSE	reviewed	Presenilin-2 (PS-2) (EC 3.4.23.-) [Cleaved into: Presenilin-2 NTF subunit; Presenilin-2 CTF subunit]	Psen2 Ad4h Alg3 Ps-2 Psnl2	Mus musculus (Mouse)	448
+P49769	PSN1_MOUSE	reviewed	Presenilin-1 (PS-1) (EC 3.4.23.-) (Protein S182) [Cleaved into: Presenilin-1 NTF subunit; Presenilin-1 CTF subunit; Presenilin-1 CTF12 (PS1-CTF12)]	Psen1 Ad3h Psnl1	Mus musculus (Mouse)	467
+P97887	PSN1_RAT	reviewed	Presenilin-1 (PS-1) (EC 3.4.23.-) (Protein S182) [Cleaved into: Presenilin-1 NTF subunit; Presenilin-1 CTF subunit; Presenilin-1 CTF12 (PS1-CTF12)]	Psen1 Psnl1	Rattus norvegicus (Rat)	468
+Q9XT97	PSN1_BOVIN	reviewed	Presenilin-1 (PS-1) (EC 3.4.23.-) [Cleaved into: Presenilin-1 NTF subunit; Presenilin-1 CTF subunit; Presenilin-1 CTF12 (PS1-CTF12)]	PSEN1	Bos taurus (Bovine)	478
+P49768	PSN1_HUMAN	reviewed	Presenilin-1 (PS-1) (EC 3.4.23.-) (Protein S182) [Cleaved into: Presenilin-1 NTF subunit; Presenilin-1 CTF subunit; Presenilin-1 CTF12 (PS1-CTF12)]	PSEN1 AD3 PS1 PSNL1	Homo sapiens (Human)	467
+Q13635	PTC1_HUMAN	reviewed	Protein patched homolog 1 (PTC) (PTC1)	PTCH1 PTCH	Homo sapiens (Human)	1447
+Q61115	PTC1_MOUSE	reviewed	Protein patched homolog 1 (PTC) (PTC1)	Ptch1 Ptch	Mus musculus (Mouse)	1434
+Q16647	PTGIS_HUMAN	reviewed	Prostacyclin synthase (EC 5.3.99.4) (Prostaglandin I2 synthase)	PTGIS CYP8 CYP8A1	Homo sapiens (Human)	500
+O35074	PTGIS_MOUSE	reviewed	Prostacyclin synthase (EC 5.3.99.4) (Prostaglandin I2 synthase)	Ptgis Cyp8	Mus musculus (Mouse)	501
+Q29626	PTGIS_BOVIN	reviewed	Prostacyclin synthase (EC 5.3.99.4) (Prostaglandin I2 synthase)	PTGIS CYP8	Bos taurus (Bovine)	500
+Q62969	PTGIS_RAT	reviewed	Prostacyclin synthase (EC 5.3.99.4) (Prostaglandin I2 synthase)	Ptgis Cyp8	Rattus norvegicus (Rat)	501
+P08575	PTPRC_HUMAN	reviewed	Receptor-type tyrosine-protein phosphatase C (EC 3.1.3.48) (Leukocyte common antigen) (L-CA) (T200) (CD antigen CD45)	PTPRC CD45	Homo sapiens (Human)	1304
+P04157	PTPRC_RAT	reviewed	Receptor-type tyrosine-protein phosphatase C (EC 3.1.3.48) (Leukocyte common antigen) (L-CA) (T200) (CD antigen CD45)	Ptprc	Rattus norvegicus (Rat)	1273
+P06800	PTPRC_MOUSE	reviewed	Receptor-type tyrosine-protein phosphatase C (EC 3.1.3.48) (Leukocyte common antigen) (L-CA) (Lymphocyte antigen 5) (Ly-5) (T200) (CD antigen CD45)	Ptprc Ly-5	Mus musculus (Mouse)	1291
+Q80WD0	R4RL1_RAT	reviewed	Reticulon-4 receptor-like 1 (Nogo receptor-like 2) (Nogo-66 receptor homolog 2) (Nogo-66 receptor-related protein 3) (NgR3)	Rtn4rl1 Ngrh2	Rattus norvegicus (Rat)	445
+Q8K0S5	R4RL1_MOUSE	reviewed	Reticulon-4 receptor-like 1 (Nogo receptor-like 2) (Nogo-66 receptor homolog 2) (Nogo-66 receptor-related protein 3) (NgR3)	Rtn4rl1 Ngrl2	Mus musculus (Mouse)	445
+P35546	RET_MOUSE	reviewed	Proto-oncogene tyrosine-protein kinase receptor Ret (EC 2.7.10.1) (Proto-oncogene c-Ret) [Cleaved into: Soluble RET kinase fragment; Extracellular cell-membrane anchored RET cadherin 120 kDa fragment]	Ret	Mus musculus (Mouse)	1115
+P07949	RET_HUMAN	reviewed	Proto-oncogene tyrosine-protein kinase receptor Ret (EC 2.7.10.1) (Cadherin family member 12) (Proto-oncogene c-Ret) [Cleaved into: Soluble RET kinase fragment; Extracellular cell-membrane anchored RET cadherin 120 kDa fragment]	RET CDHF12 CDHR16 PTC RET51	Homo sapiens (Human)	1114
+G3V9H8	RET_RAT	reviewed	Proto-oncogene tyrosine-protein kinase receptor Ret (EC 2.7.10.1) [Cleaved into: Soluble RET kinase fragment; Extracellular cell-membrane anchored RET cadherin 120 kDa fragment]	Ret	Rattus norvegicus (Rat)	1115
+Q5E9P3	S1PR1_BOVIN	reviewed	Sphingosine 1-phosphate receptor 1 (S1P receptor 1) (S1P1) (Endothelial differentiation G-protein coupled receptor 1) (Sphingosine 1-phosphate receptor Edg-1) (S1P receptor Edg-1) (CD antigen CD363)	S1PR1 EDG1	Bos taurus (Bovine)	382
+P48303	S1PR1_RAT	reviewed	Sphingosine 1-phosphate receptor 1 (S1P receptor 1) (S1P1) (Endothelial differentiation G-protein coupled receptor 1) (Sphingosine 1-phosphate receptor Edg-1) (S1P receptor Edg-1) (CD antigen CD363)	S1pr1 Edg1	Rattus norvegicus (Rat)	383
+P21453	S1PR1_HUMAN	reviewed	Sphingosine 1-phosphate receptor 1 (S1P receptor 1) (S1P1) (Endothelial differentiation G-protein coupled receptor 1) (Sphingosine 1-phosphate receptor Edg-1) (S1P receptor Edg-1) (CD antigen CD363)	S1PR1 CHEDG1 EDG1	Homo sapiens (Human)	382
+O08530	S1PR1_MOUSE	reviewed	Sphingosine 1-phosphate receptor 1 (S1P receptor 1) (S1P1) (Endothelial differentiation G-protein coupled receptor 1) (Lysophospholipid receptor B1) (Sphingosine 1-phosphate receptor Edg-1) (S1P receptor Edg-1) (CD antigen CD363)	S1pr1 Edg1 Lpb1	Mus musculus (Mouse)	382
+Q4U2R8	S22A6_HUMAN	reviewed	Solute carrier family 22 member 6 (Organic anion transporter 1) (hOAT1) (PAH transporter) (hPAHT) (Renal organic anion transporter 1) (hROAT1)	SLC22A6 OAT1 PAHT	Homo sapiens (Human)	563
+Q8VC69	S22A6_MOUSE	reviewed	Solute carrier family 22 member 6 (Kidney-specific transport protein) (Novel kidney transcript) (mNKT) (Organic anion transporter 1) (Renal organic anion transporter 1) (mROAT1)	Slc22a6 Nkt Oat1	Mus musculus (Mouse)	545
+O35956	S22A6_RAT	reviewed	Solute carrier family 22 member 6 (Organic anion transporter 1) (rOAT1) (renal organic anion transporter 1) (rROAT1)	Slc22a6 Oat1	Rattus norvegicus (Rat)	551
+P97849	S27A1_RAT	reviewed	Long-chain fatty acid transport protein 1 (FATP-1) (Fatty acid transport protein 1) (EC 6.2.1.-) (Solute carrier family 27 member 1)	Slc27a1 Fatp Fatp1	Rattus norvegicus (Rat)	646
+P23975	SC6A2_HUMAN	reviewed	Sodium-dependent noradrenaline transporter (Norepinephrine transporter) (NET) (Solute carrier family 6 member 2)	SLC6A2 NAT1 NET1 SLC6A5	Homo sapiens (Human)	617
+O55192	SC6A2_MOUSE	reviewed	Sodium-dependent noradrenaline transporter (Norepinephrine transporter) (NET) (Solute carrier family 6 member 2)	Slc6a2	Mus musculus (Mouse)	617
+P31645	SC6A4_HUMAN	reviewed	Sodium-dependent serotonin transporter (5HT transporter) (5HTT) (Solute carrier family 6 member 4)	SLC6A4 HTT SERT	Homo sapiens (Human)	630
+P31652	SC6A4_RAT	reviewed	Sodium-dependent serotonin transporter (5HT transporter) (5HTT) (Solute carrier family 6 member 4)	Slc6a4	Rattus norvegicus (Rat)	630
+Q60857	SC6A4_MOUSE	reviewed	Sodium-dependent serotonin transporter (5HT transporter) (5HTT) (Solute carrier family 6 member 4)	Slc6a4 Htt Sert	Mus musculus (Mouse)	630
+Q14524	SCN5A_HUMAN	reviewed	Sodium channel protein type 5 subunit alpha (HH1) (Sodium channel protein cardiac muscle subunit alpha) (Sodium channel protein type V subunit alpha) (Voltage-gated sodium channel subunit alpha Nav1.5)	SCN5A	Homo sapiens (Human)	2016
+Q60417	SCRB1_CRIGR	reviewed	Scavenger receptor class B member 1 (SRB1) (HaSR-BI) (SR-BI)	SCARB1	Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus)	509
+Q8SQC1	SCRB1_PIG	reviewed	Scavenger receptor class B member 1 (SRB1) (High density lipoprotein receptor SR-BI) (SR-BI)	SCARB1	Sus scrofa (Pig)	509
+O18824	SCRB1_BOVIN	reviewed	Scavenger receptor class B member 1 (SRB1) (SR-BI)	SCARB1	Bos taurus (Bovine)	509
+P97943	SCRB1_RAT	reviewed	Scavenger receptor class B member 1 (SRB1) (SR-BI)	Scarb1	Rattus norvegicus (Rat)	509
+Q8WTV0	SCRB1_HUMAN	reviewed	Scavenger receptor class B member 1 (SRB1) (CD36 and LIMPII analogous 1) (CLA-1) (CD36 antigen-like 1) (Collagen type I receptor, thrombospondin receptor-like 1) (SR-BI) (CD antigen CD36)	SCARB1 CD36L1 CLA1	Homo sapiens (Human)	552
+Q61009	SCRB1_MOUSE	reviewed	Scavenger receptor class B member 1 (SRB1) (SR-BI)	Scarb1 Srb1	Mus musculus (Mouse)	509
+O35988	SDC4_MOUSE	reviewed	Syndecan-4 (SYND4) (Ryudocan core protein)	Sdc4	Mus musculus (Mouse)	198
+P31431	SDC4_HUMAN	reviewed	Syndecan-4 (SYND4) (Amphiglycan) (Ryudocan core protein)	SDC4	Homo sapiens (Human)	198
+P34901	SDC4_RAT	reviewed	Syndecan-4 (SYND4) (Ryudocan core protein)	Sdc4 Synd4	Rattus norvegicus (Rat)	202
+Q16586	SGCA_HUMAN	reviewed	Alpha-sarcoglycan (Alpha-SG) (50 kDa dystrophin-associated glycoprotein) (50DAG) (Adhalin) (Dystroglycan-2)	SGCA ADL DAG2	Homo sapiens (Human)	387
+P82350	SGCA_MOUSE	reviewed	Alpha-sarcoglycan (Alpha-SG) (50 kDa dystrophin-associated glycoprotein) (50DAG) (Adhalin)	Sgca	Mus musculus (Mouse)	387
+Q61165	SL9A1_MOUSE	reviewed	Sodium/hydrogen exchanger 1 (Na(+)/H(+) exchanger 1) (NHE-1) (Solute carrier family 9 member 1)	Slc9a1 Nhe1	Mus musculus (Mouse)	820
+P19634	SL9A1_HUMAN	reviewed	Sodium/hydrogen exchanger 1 (APNH) (Na(+)/H(+) antiporter, amiloride-sensitive) (Na(+)/H(+) exchanger 1) (NHE-1) (Solute carrier family 9 member 1)	SLC9A1 APNH1 NHE1	Homo sapiens (Human)	815
+P26431	SL9A1_RAT	reviewed	Sodium/hydrogen exchanger 1 (Na(+)/H(+) exchanger 1) (NHE-1) (Solute carrier family 9 member 1)	Slc9a1 Nhe1	Rattus norvegicus (Rat)	820
+P56726	SMO_MOUSE	reviewed	Smoothened homolog (SMO)	Smo Smoh	Mus musculus (Mouse)	793
+Q6PE84	STML3_MOUSE	reviewed	Stomatin-like protein 3 (SLP-3) (Stomatin-related olfactory protein)	Stoml3 Sro	Mus musculus (Mouse)	287
+Q8TAV4	STML3_HUMAN	reviewed	Stomatin-like protein 3 (SLP-3)	STOML3	Homo sapiens (Human)	291
+G3V7P1	STX12_RAT	reviewed	Syntaxin-12 (Syntaxin-13)	Stx12 Stx13	Rattus norvegicus (Rat)	274
+Q86Y82	STX12_HUMAN	reviewed	Syntaxin-12	STX12	Homo sapiens (Human)	276
+Q9ER00	STX12_MOUSE	reviewed	Syntaxin-12	Stx12	Mus musculus (Mouse)	274
+Q00262	STX2_MOUSE	reviewed	Syntaxin-2 (Epimorphin)	Stx2 Epim	Mus musculus (Mouse)	289
+P32856	STX2_HUMAN	reviewed	Syntaxin-2 (Epimorphin)	STX2 EPIM STX2A STX2B STX2C	Homo sapiens (Human)	288
+P23739	SUIS_RAT	reviewed	Sucrase-isomaltase, intestinal [Cleaved into: Sucrase (EC 3.2.1.48); Isomaltase (EC 3.2.1.10)]	Si	Rattus norvegicus (Rat)	1841
+Q64729	TGFR1_MOUSE	reviewed	TGF-beta receptor type-1 (TGFR-1) (EC 2.7.11.30) (ESK2) (Transforming growth factor-beta receptor type I) (TGF-beta receptor type I) (TbetaR-I)	Tgfbr1	Mus musculus (Mouse)	503
+P80204	TGFR1_RAT	reviewed	TGF-beta receptor type-1 (TGFR-1) (EC 2.7.11.30) (Serine/threonine-protein kinase receptor R4) (SKR4) (TGF-beta type I receptor) (Transforming growth factor-beta receptor type I) (TGF-beta receptor type I) (TbetaR-I)	Tgfbr1	Rattus norvegicus (Rat)	501
+Q62312	TGFR2_MOUSE	reviewed	TGF-beta receptor type-2 (TGFR-2) (EC 2.7.11.30) (TGF-beta type II receptor) (Transforming growth factor-beta receptor type II) (TGF-beta receptor type II) (TbetaR-II)	Tgfbr2	Mus musculus (Mouse)	592
+P37173	TGFR2_HUMAN	reviewed	TGF-beta receptor type-2 (TGFR-2) (EC 2.7.11.30) (TGF-beta type II receptor) (Transforming growth factor-beta receptor type II) (TGF-beta receptor type II) (TbetaR-II)	TGFBR2	Homo sapiens (Human)	567
+P38438	TGFR2_RAT	reviewed	TGF-beta receptor type-2 (TGFR-2) (EC 2.7.11.30) (TGF-beta type II receptor) (Transforming growth factor-beta receptor type II) (TGF-beta receptor type II) (TbetaR-II)	Tgfbr2	Rattus norvegicus (Rat)	567
+Q06807	TIE2_BOVIN	reviewed	Angiopoietin-1 receptor (EC 2.7.10.1) (Endothelial tyrosine kinase) (Tyrosine kinase with Ig and EGF homology domains-2) (Tyrosine-protein kinase receptor TIE-2) (CD antigen CD202b)	TEK TIE-2 TIE2	Bos taurus (Bovine)	1125
+Q02763	TIE2_HUMAN	reviewed	Angiopoietin-1 receptor (EC 2.7.10.1) (Endothelial tyrosine kinase) (Tunica interna endothelial cell kinase) (Tyrosine kinase with Ig and EGF homology domains-2) (Tyrosine-protein kinase receptor TEK) (Tyrosine-protein kinase receptor TIE-2) (hTIE2) (p140 TEK) (CD antigen CD202b)	TEK TIE2 VMCM VMCM1	Homo sapiens (Human)	1124
+P48023	TNFL6_HUMAN	reviewed	Tumor necrosis factor ligand superfamily member 6 (Apoptosis antigen ligand) (APTL) (CD95 ligand) (CD95-L) (Fas antigen ligand) (Fas ligand) (FasL) (CD antigen CD178) [Cleaved into: Tumor necrosis factor ligand superfamily member 6, membrane form; Tumor necrosis factor ligand superfamily member 6, soluble form (Receptor-binding FasL ectodomain) (Soluble Fas ligand) (sFasL); ADAM10-processed FasL form (APL); FasL intracellular domain (FasL ICD) (SPPL2A-processed FasL form) (SPA)]	FASLG APT1LG1 CD95L FASL TNFSF6	Homo sapiens (Human)	281
+P41047	TNFL6_MOUSE	reviewed	Tumor necrosis factor ligand superfamily member 6 (CD95 ligand) (CD95-L) (Fas antigen ligand) (Fas ligand) (FasL) (CD antigen CD178) [Cleaved into: Tumor necrosis factor ligand superfamily member 6, membrane form; Tumor necrosis factor ligand superfamily member 6, soluble form (Receptor-binding FasL ectodomain) (Soluble Fas ligand) (sFasL); ADAM10-processed FasL form (APL); FasL intracellular domain (FasL ICD) (SPPL2A-processed FasL form) (SPA)]	Faslg Apt1lg1 Cd95l Fasl gld Tnfsf6	Mus musculus (Mouse)	279
+P36940	TNFL6_RAT	reviewed	Tumor necrosis factor ligand superfamily member 6 (CD95 ligand) (CD95-L) (Fas antigen ligand) (Fas ligand) (FasL) (CD antigen CD178) [Cleaved into: Tumor necrosis factor ligand superfamily member 6, membrane form; Tumor necrosis factor ligand superfamily member 6, soluble form (Receptor-binding FasL ectodomain) (Soluble Fas ligand) (sFasL); ADAM10-processed FasL form (APL); FasL intracellular domain (FasL ICD) (SPPL2A-processed FasL form) (SPA)]	Faslg Apt1Lg1 Cd95l Fasl Tnfsf6	Rattus norvegicus (Rat)	278
+Q06599	TNFA_BOVIN	reviewed	Tumor necrosis factor (Cachectin) (TNF-alpha) (Tumor necrosis factor ligand superfamily member 2) (TNF-a) [Cleaved into: Tumor necrosis factor, membrane form (N-terminal fragment) (NTF); Intracellular domain 1 (ICD1); Intracellular domain 2 (ICD2); C-domain 1; C-domain 2; Tumor necrosis factor, soluble form]	TNF TNFA TNFSF2	Bos taurus (Bovine)	234
+P51742	TNFA_CANFA	reviewed	Tumor necrosis factor (Cachectin) (TNF-alpha) (Tumor necrosis factor ligand superfamily member 2) (TNF-a) [Cleaved into: Tumor necrosis factor, membrane form (N-terminal fragment) (NTF); Intracellular domain 1 (ICD1); Intracellular domain 2 (ICD2); C-domain 1; C-domain 2; Tumor necrosis factor, soluble form]	TNF TNFA TNFSF2	Canis familiaris (Dog) (Canis lupus familiaris)	233
+P29553	TNFA_HORSE	reviewed	Tumor necrosis factor (Cachectin) (TNF-alpha) (Tumor necrosis factor ligand superfamily member 2) (TNF-a) [Cleaved into: Tumor necrosis factor, membrane form (N-terminal fragment) (NTF); Intracellular domain 1 (ICD1); Intracellular domain 2 (ICD2); C-domain 1; C-domain 2; Tumor necrosis factor, soluble form]	TNF TNFA TNFSF2	Equus caballus (Horse)	234
+P51435	TNFA_CAVPO	reviewed	Tumor necrosis factor (Cachectin) (TNF-alpha) (Tumor necrosis factor ligand superfamily member 2) (TNF-a) [Cleaved into: Tumor necrosis factor, membrane form (N-terminal fragment) (NTF); Intracellular domain 1 (ICD1); Intracellular domain 2 (ICD2); C-domain 1; C-domain 2; Tumor necrosis factor, soluble form]	TNF TNFA TNFSF2	Cavia porcellus (Guinea pig)	234
+P23383	TNFA_SHEEP	reviewed	Tumor necrosis factor (Cachectin) (TNF-alpha) (Tumor necrosis factor ligand superfamily member 2) (TNF-a) [Cleaved into: Tumor necrosis factor, membrane form (N-terminal fragment) (NTF); Intracellular domain 1 (ICD1); Intracellular domain 2 (ICD2); C-domain 1; C-domain 2; Tumor necrosis factor, soluble form]	TNF TNFA TNFSF2	Ovis aries (Sheep)	234
+Q19LH4	TNFA_CALJA	reviewed	Tumor necrosis factor (Cachectin) (TNF-alpha) (Tumor necrosis factor ligand superfamily member 2) (TNF-a) [Cleaved into: Tumor necrosis factor, membrane form (N-terminal fragment) (NTF); Intracellular domain 1 (ICD1); Intracellular domain 2 (ICD2); C-domain 1; C-domain 2; Tumor necrosis factor, soluble form]	TNF TNFA TNFSF2	Callithrix jacchus (White-tufted-ear marmoset)	232
+Q8HZD9	TNFA_PANTR	reviewed	Tumor necrosis factor (Cachectin) (TNF-alpha) (Tumor necrosis factor ligand superfamily member 2) (TNF-a) [Cleaved into: Tumor necrosis factor, membrane form (N-terminal fragment) (NTF); Intracellular domain 1 (ICD1); Intracellular domain 2 (ICD2); C-domain 1; C-domain 2; Tumor necrosis factor, soluble form]	TNF TNFA TNFSF2	Pan troglodytes (Chimpanzee)	232
+P48094	TNFA_MACMU	reviewed	Tumor necrosis factor (Cachectin) (TNF-alpha) (Tumor necrosis factor ligand superfamily member 2) (TNF-a) [Cleaved into: Tumor necrosis factor, membrane form (N-terminal fragment) (NTF); Intracellular domain 1 (ICD1); Intracellular domain 2 (ICD2); C-domain 1; C-domain 2; Tumor necrosis factor, soluble form]	TNF TNFA TNFSF2	Macaca mulatta (Rhesus macaque)	233
+P16599	TNFA_RAT	reviewed	Tumor necrosis factor (Cachectin) (TNF-alpha) (Tumor necrosis factor ligand superfamily member 2) (TNF-a) [Cleaved into: Tumor necrosis factor, membrane form (N-terminal fragment) (NTF); Intracellular domain 1 (ICD1); Intracellular domain 2 (ICD2); C-domain 1; C-domain 2; Tumor necrosis factor, soluble form]	Tnf Tnfa Tnfsf2	Rattus norvegicus (Rat)	235
+P06804	TNFA_MOUSE	reviewed	Tumor necrosis factor (Cachectin) (TNF-alpha) (Tumor necrosis factor ligand superfamily member 2) (TNF-a) [Cleaved into: Tumor necrosis factor, membrane form (N-terminal fragment) (NTF); Intracellular domain 1 (ICD1); Intracellular domain 2 (ICD2); C-domain 1; C-domain 2; Tumor necrosis factor, soluble form]	Tnf Tnfa Tnfsf2	Mus musculus (Mouse)	235
+O77764	TNFA_MACEU	reviewed	Tumor necrosis factor (Cachectin) (TNF-alpha) (Tumor necrosis factor ligand superfamily member 2) (TNF-a) [Cleaved into: Tumor necrosis factor, membrane form (N-terminal fragment) (NTF); Intracellular domain 1 (ICD1); Intracellular domain 2 (ICD2); C-domain 1; C-domain 2; Tumor necrosis factor, soluble form]	TNF TNFA TNFSF2	Macropus eugenii (Tammar wallaby)	233
+Q9BEA1	TNFA_TURTR	reviewed	Tumor necrosis factor (Cachectin) (TNF-alpha) (Tumor necrosis factor ligand superfamily member 2) (TNF-a) [Cleaved into: Tumor necrosis factor, membrane form (N-terminal fragment) (NTF); Intracellular domain 1 (ICD1); Intracellular domain 2 (ICD2); C-domain 1; C-domain 2; Tumor necrosis factor, soluble form]	TNF TNFA TNFSF2	Tursiops truncatus (Atlantic bottle-nosed dolphin) (Delphinus truncatus)	233
+P04924	TNFA_RABIT	reviewed	Tumor necrosis factor (Cachectin) (TNF-alpha) (Tumor necrosis factor ligand superfamily member 2) (TNF-a) [Cleaved into: Tumor necrosis factor, membrane form (N-terminal fragment) (NTF); Intracellular domain 1 (ICD1); Intracellular domain 2 (ICD2); C-domain 1; C-domain 2; Tumor necrosis factor, soluble form]	TNF TNFA TNFSF2	Oryctolagus cuniculus (Rabbit)	235
+P23563	TNFA_PIG	reviewed	Tumor necrosis factor (Cachectin) (TNF-alpha) (Tumor necrosis factor ligand superfamily member 2) (TNF-a) [Cleaved into: Tumor necrosis factor, membrane form (N-terminal fragment) (NTF); Intracellular domain 1 (ICD1); Intracellular domain 2 (ICD2); C-domain 1; C-domain 2; Tumor necrosis factor, soluble form]	TNF TNFA TNFSF2	Sus scrofa (Pig)	232
+P01375	TNFA_HUMAN	reviewed	Tumor necrosis factor (Cachectin) (TNF-alpha) (Tumor necrosis factor ligand superfamily member 2) (TNF-a) [Cleaved into: Tumor necrosis factor, membrane form (N-terminal fragment) (NTF); Intracellular domain 1 (ICD1); Intracellular domain 2 (ICD2); C-domain 1; C-domain 2; Tumor necrosis factor, soluble form]	TNF TNFA TNFSF2	Homo sapiens (Human)	233
+P25119	TNR1B_MOUSE	reviewed	Tumor necrosis factor receptor superfamily member 1B (Tumor necrosis factor receptor 2) (TNF-R2) (Tumor necrosis factor receptor type II) (TNF-RII) (TNFR-II) (p75) (p80 TNF-alpha receptor) (CD antigen CD120b)	Tnfrsf1b Tnfr-2 Tnfr2	Mus musculus (Mouse)	474
+Q80WY6	TNR1B_RAT	reviewed	Tumor necrosis factor receptor superfamily member 1B (Tumor necrosis factor receptor 2) (TNF-R2) (Tumor necrosis factor receptor type II) (TNF-RII) (TNFR-II) (p75) (p80 TNF-alpha receptor) (CD antigen CD120b)	Tnfrsf1b Tnfr2	Rattus norvegicus (Rat)	474
+P07174	TNR16_RAT	reviewed	Tumor necrosis factor receptor superfamily member 16 (Gp80-LNGFR) (Low affinity neurotrophin receptor p75NTR) (Low-affinity nerve growth factor receptor) (NGF receptor) (p75 ICD) (CD antigen CD271)	Ngfr Tnfrsf16	Rattus norvegicus (Rat)	425
+P20333	TNR1B_HUMAN	reviewed	Tumor necrosis factor receptor superfamily member 1B (Tumor necrosis factor receptor 2) (TNF-R2) (Tumor necrosis factor receptor type II) (TNF-RII) (TNFR-II) (p75) (p80 TNF-alpha receptor) (CD antigen CD120b) (Etanercept) [Cleaved into: Tumor necrosis factor receptor superfamily member 1b, membrane form; Tumor necrosis factor-binding protein 2 (TBP-2) (TBPII)]	TNFRSF1B TNFBR TNFR2	Homo sapiens (Human)	461
+P19438	TNR1A_HUMAN	reviewed	Tumor necrosis factor receptor superfamily member 1A (Tumor necrosis factor receptor 1) (TNF-R1) (Tumor necrosis factor receptor type I) (TNF-RI) (TNFR-I) (p55) (p60) (CD antigen CD120a) [Cleaved into: Tumor necrosis factor receptor superfamily member 1A, membrane form; Tumor necrosis factor-binding protein 1 (TBPI)]	TNFRSF1A TNFAR TNFR1	Homo sapiens (Human)	455
+P25118	TNR1A_MOUSE	reviewed	Tumor necrosis factor receptor superfamily member 1A (Tumor necrosis factor receptor 1) (TNF-R1) (Tumor necrosis factor receptor type I) (TNF-RI) (TNFR-I) (p55) (p60) (CD antigen CD120a)	Tnfrsf1a Tnfr-1 Tnfr1	Mus musculus (Mouse)	454
+P22934	TNR1A_RAT	reviewed	Tumor necrosis factor receptor superfamily member 1A (Tumor necrosis factor receptor 1) (TNF-R1) (Tumor necrosis factor receptor type I) (TNF-RI) (TNFR-I) (p55) (p60) (CD antigen CD120a)	Tnfrsf1a Tnfr-1 Tnfr1	Rattus norvegicus (Rat)	461
+Q63199	TNR6_RAT	reviewed	Tumor necrosis factor receptor superfamily member 6 (Apo-1 antigen) (Apoptosis-mediating surface antigen FAS) (FASLG receptor) (CD antigen CD95)	Fas Apt1 Tnfrsf6	Rattus norvegicus (Rat)	324
+P25446	TNR6_MOUSE	reviewed	Tumor necrosis factor receptor superfamily member 6 (Apo-1 antigen) (Apoptosis-mediating surface antigen FAS) (FASLG receptor) (CD antigen CD95)	Fas Apt1 Tnfrsf6	Mus musculus (Mouse)	327
+P25445	TNR6_HUMAN	reviewed	Tumor necrosis factor receptor superfamily member 6 (Apo-1 antigen) (Apoptosis-mediating surface antigen FAS) (FASLG receptor) (CD antigen CD95)	FAS APT1 FAS1 TNFRSF6	Homo sapiens (Human)	335
+P51867	TNR6_BOVIN	reviewed	Tumor necrosis factor receptor superfamily member 6 (Apo-1 antigen) (Apoptosis-mediating surface antigen FAS) (FASLG receptor) (CD antigen CD95)	FAS APT1 TNFRSF6	Bos taurus (Bovine)	323
+Q61056	TRPC1_MOUSE	reviewed	Short transient receptor potential channel 1 (TrpC1) (Transient receptor protein 1) (TRP-1) (mTrp1) (Trp-related protein 1)	Trpc1 Trp1 Trrp1	Mus musculus (Mouse)	793
+P48995	TRPC1_HUMAN	reviewed	Short transient receptor potential channel 1 (TrpC1) (Transient receptor protein 1) (TRP-1)	TRPC1 TRP1	Homo sapiens (Human)	793
+Q9UBN4	TRPC4_HUMAN	reviewed	Short transient receptor potential channel 4 (TrpC4) (Trp-related protein 4) (hTrp-4) (hTrp4)	TRPC4	Homo sapiens (Human)	977
+Q9QUQ5	TRPC4_MOUSE	reviewed	Short transient receptor potential channel 4 (TrpC4) (Capacitative calcium entry channel Trp4) (Receptor-activated cation channel TRP4)	Trpc4 Trrp4	Mus musculus (Mouse)	974
+P79100	TRPC4_BOVIN	reviewed	Short transient receptor potential channel 4 (TrpC4) (Capacitative calcium entry channel 1) (CCE1)	TRPC4	Bos taurus (Bovine)	979
+Q7Z2W7	TRPM8_HUMAN	reviewed	Transient receptor potential cation channel subfamily M member 8 (Long transient receptor potential channel 6) (LTrpC-6) (LTrpC6) (Transient receptor potential p8) (Trp-p8)	TRPM8 LTRPC6 TRPP8	Homo sapiens (Human)	1104
+Q8R455	TRPM8_RAT	reviewed	Transient receptor potential cation channel subfamily M member 8 (Cold menthol receptor 1)	Trpm8 Cmr1	Rattus norvegicus (Rat)	1104
+Q8R4D5	TRPM8_MOUSE	reviewed	Transient receptor potential cation channel subfamily M member 8 (Long transient receptor potential channel 6) (LTrpC-6) (LTrpC6) (Transient receptor potential p8) (Trp-p8)	Trpm8 Ltrpc6 Trpp8	Mus musculus (Mouse)	1104
+O08722	UNC5B_RAT	reviewed	Netrin receptor UNC5B (Protein unc-5 homolog 2) (Protein unc-5 homolog B)	Unc5b Unc5h2	Rattus norvegicus (Rat)	945
+P35968	VGFR2_HUMAN	reviewed	Vascular endothelial growth factor receptor 2 (VEGFR-2) (EC 2.7.10.1) (Fetal liver kinase 1) (FLK-1) (Kinase insert domain receptor) (KDR) (Protein-tyrosine kinase receptor flk-1) (CD antigen CD309)	KDR FLK1 VEGFR2	Homo sapiens (Human)	1356
+D3DTJ7	D3DTJ7_HUMAN	unreviewed	P2X purinoceptor	P2RX1 hCG_33199	Homo sapiens (Human)	186
+E9PC45	E9PC45_HUMAN	unreviewed	Platelet glycoprotein 4 (Fragment)	CD36	Homo sapiens (Human)	93
+B2RA23	B2RA23_HUMAN	unreviewed	HCG1642166, isoform CRA_b (cDNA, FLJ94663, Homo sapiens potassium voltage-gated channel, shaker-relatedsubfamily, member 3 (KCNA3), mRNA)	hCG_1642166	Homo sapiens (Human)	523
+Q9NYN7	Q9NYN7_HUMAN	unreviewed	Transporter (Fragment)	5HTT SLC6A4	Homo sapiens (Human)	73
+B4DTZ6	B4DTZ6_HUMAN	unreviewed	Sodium/hydrogen exchanger	SLC9A1	Homo sapiens (Human)	476
+B4E1S6	B4E1S6_HUMAN	unreviewed	Syndecan	SDC4 hCG_38363	Homo sapiens (Human)	126
+B4DMC9	B4DMC9_HUMAN	unreviewed	cDNA FLJ50990, highly similar to Gap junction alpha-1 protein (cDNA, FLJ79058, highly similar to Gap junction alpha-1 protein)		Homo sapiens (Human)	283
+B3KR08	B3KR08_HUMAN	unreviewed	Fas apoptotic inhibitory molecule 2, isoform CRA_b (Protein lifeguard 2) (cDNA FLJ33409 fis, clone BRACE2010598, highly similar to Fas apoptotic inhibitory molecule 2)	FAIM2 hCG_20198	Homo sapiens (Human)	270
+A4D1B1	A4D1B1_HUMAN	unreviewed	CD36 antigen (Collagen type I receptor, thrombospondin receptor) (CD36 antigen (Collagen type I receptor, thrombospondin receptor), isoform CRA_a) (cDNA, FLJ93369, highly similar to Homo sapiens CD36 antigen (collagen type I receptor, thrombospondinreceptor) (CD36), mRNA)	CD36 hCG_17062 tcag7.257	Homo sapiens (Human)	472
+B3KTB2	B3KTB2_HUMAN	unreviewed	Ephrin type-B receptor 1 (cDNA FLJ37986 fis, clone CTONG2011188, highly similar to Ephrin type-B receptor 1 (EC 2.7.10.1))	EPHB1	Homo sapiens (Human)	545
+A3KLL5	A3KLL5_HUMAN	unreviewed	ATPase, Na+/K+ transporting, beta 1 polypeptide, isoform CRA_a (Na,K-ATPase beta 1 subunit) (cDNA FLJ76773, highly similar to Homo sapiens ATPase, Na+/K+ transporting, beta 1 polypeptide (ATP1B1), transcript variant 1, mRNA)	ATP1B1 hCG_37798	Homo sapiens (Human)	303
+Q9NYY6	Q9NYY6_HUMAN	unreviewed	Low-voltage-activated calcium channel alpha13.2 subunit (Fragment)	CACNA1H	Homo sapiens (Human)	100
+B3VRR0	B3VRR0_HUMAN	unreviewed	Solute carrier family 6 member 4 (Fragment)	SLC6A4	Homo sapiens (Human)	42
+B4DI81	B4DI81_HUMAN	unreviewed	Gap junction protein		Homo sapiens (Human)	361
+E7EQW5	E7EQW5_HUMAN	unreviewed	Integrin beta (Fragment)	ITGB1	Homo sapiens (Human)	163
+E9PLT1	E9PLT1_HUMAN	unreviewed	Platelet glycoprotein 4	CD36	Homo sapiens (Human)	396
+J3KPR9	J3KPR9_HUMAN	unreviewed	Transporter (Fragment)	SLC6A4	Homo sapiens (Human)	618
+H3BMY5	H3BMY5_HUMAN	unreviewed	Transporter (Fragment)	SLC6A2	Homo sapiens (Human)	200
+Q5T3E5	Q5T3E5_HUMAN	unreviewed	Integrin beta (Fragment)	ITGB1	Homo sapiens (Human)	89
+J3QLJ3	J3QLJ3_HUMAN	unreviewed	Plasmolipin (Fragment)	PLLP	Homo sapiens (Human)	91
+E9PLR6	E9PLR6_HUMAN	unreviewed	Integrin beta (Fragment)	ITGB1	Homo sapiens (Human)	143
+E7EX47	E7EX47_HUMAN	unreviewed	Platelet glycoprotein 4 (Fragment)	CD36	Homo sapiens (Human)	203
+E9PQJ2	E9PQJ2_HUMAN	unreviewed	Integrin beta (Fragment)	ITGB1	Homo sapiens (Human)	104
+B3VRS0	B3VRS0_HUMAN	unreviewed	Solute carrier family 6 member 4 (Fragment)	SLC6A4	Homo sapiens (Human)	45
+Q71UK3	Q71UK3_HUMAN	unreviewed	P2X purinoceptor (Fragment)		Homo sapiens (Human)	150
+E7ERZ9	E7ERZ9_HUMAN	unreviewed	Platelet glycoprotein 4 (Fragment)	CD36	Homo sapiens (Human)	143
+Q6S991	Q6S991_HUMAN	unreviewed	Pituitary adenylate cyclase activating polypeptide 1 receptor type I Hop splice variant (Fragment)	ADCYAP1R1	Homo sapiens (Human)	114
+Q5T3E6	Q5T3E6_HUMAN	unreviewed	Integrin beta (Fragment)	ITGB1	Homo sapiens (Human)	136
+E7ERX5	E7ERX5_HUMAN	unreviewed	Integrin beta (Fragment)	ITGB1	Homo sapiens (Human)	125
+C9JPK5	C9JPK5_HUMAN	unreviewed	Integrin beta (Fragment)	ITGB1	Homo sapiens (Human)	98
+E7EWI4	E7EWI4_HUMAN	unreviewed	Platelet glycoprotein 4 (Fragment)	CD36	Homo sapiens (Human)	148
+Q71UM8	Q71UM8_HUMAN	unreviewed	Adenylyl cyclase (Fragment)		Homo sapiens (Human)	367
+Q6PIW1	Q6PIW1_HUMAN	unreviewed	P2X purinoceptor	P2RX1	Homo sapiens (Human)	175
+B3KVN0	B3KVN0_HUMAN	unreviewed	cDNA FLJ16785 fis, clone NT2RI2015342, highly similar to Solute carrier family 2, facilitated glucose transporter member 1		Homo sapiens (Human)	416
+E7ES96	E7ES96_HUMAN	unreviewed	Presenilin-1	PSEN1	Homo sapiens (Human)	375
+Q9BZN2	Q9BZN2_HUMAN	unreviewed	CD36 (Fragment)		Homo sapiens (Human)	30
+Q6P2D3	Q6P2D3_HUMAN	unreviewed	Uncharacterized protein (Fragment)		Homo sapiens (Human)	557
+E7EU05	E7EU05_HUMAN	unreviewed	Platelet glycoprotein 4 (Fragment)	CD36	Homo sapiens (Human)	463
+Q59GX2	Q59GX2_HUMAN	unreviewed	Solute carrier family 2 (Facilitated glucose transporter), member 1 variant (Fragment)		Homo sapiens (Human)	517
+E9PJX8	E9PJX8_HUMAN	unreviewed	Platelet glycoprotein 4 (Fragment)	CD36	Homo sapiens (Human)	65
+B3VRQ5	B3VRQ5_HUMAN	unreviewed	Solute carrier family 6 member 4 (Fragment)	SLC6A4	Homo sapiens (Human)	37
+B3VRR5	B3VRR5_HUMAN	unreviewed	Solute carrier family 6 member 4 (Fragment)	SLC6A4	Homo sapiens (Human)	34
+B3VRS5	B3VRS5_HUMAN	unreviewed	Solute carrier family 6 member 4 (Fragment)	SLC6A4	Homo sapiens (Human)	46
+B4DN50	B4DN50_HUMAN	unreviewed	Gap junction protein		Homo sapiens (Human)	366
+Q6RKA2	Q6RKA2_HUMAN	unreviewed	Pituitary adenylate cyclase activating polypeptide 1 receptor type I HopII variant (Fragment)	ADCYAP1R1	Homo sapiens (Human)	113
+G7N677	G7N677_MACMU	unreviewed	Low-density lipoprotein receptor-related protein 6	LRP6 EGK_03393	Macaca mulatta (Rhesus macaque)	1613
+F7DM27	F7DM27_MACMU	unreviewed	Uncharacterized protein	LOC720099 EGK_12084	Macaca mulatta (Rhesus macaque)	984
+F6VW12	F6VW12_MACMU	unreviewed	Angiopoietin-1 receptor (Uncharacterized protein)	TEK EGK_07642	Macaca mulatta (Rhesus macaque)	1124
+D5IGC7	D5IGC7_CANFA	unreviewed	CD36 antigen (Uncharacterized protein)	CD36	Canis familiaris (Dog) (Canis lupus familiaris)	472
+H2Q5G9	H2Q5G9_PANTR	unreviewed	Low density lipoprotein receptor-related protein 6 (Uncharacterized protein)	LRP6	Pan troglodytes (Chimpanzee)	1613
+A5A4L0	A5A4L0_CALJA	unreviewed	Ghrelin receptor (Uncharacterized protein)	GHSR	Callithrix jacchus (White-tufted-ear marmoset)	366
+H2QUU6	H2QUU6_PANTR	unreviewed	CD36 molecule (Thrombospondin receptor) (Uncharacterized protein)	CD36	Pan troglodytes (Chimpanzee)	472
+K7B0S8	K7B0S8_PANTR	unreviewed	Transient receptor potential cation channel, subfamily C, member 4	TRPC4	Pan troglodytes (Chimpanzee)	982
+H2R800	H2R800_PANTR	unreviewed	Transient receptor potential cation channel, subfamily C, member 1 (Uncharacterized protein)	TRPC1	Pan troglodytes (Chimpanzee)	759
+H2QR41	H2QR41_PANTR	unreviewed	Coagulation factor II (Thrombin) receptor (Uncharacterized protein)	F2R	Pan troglodytes (Chimpanzee)	425
+F7HP25	F7HP25_CALJA	unreviewed	Myelin and lymphocyte protein isoform a (Uncharacterized protein)	MAL	Callithrix jacchus (White-tufted-ear marmoset)	153
+H2R3J3	H2R3J3_PANTR	unreviewed	Transient receptor potential cation channel, subfamily C, member 4 (Uncharacterized protein)	TRPC4	Pan troglodytes (Chimpanzee)	977
+F7I9Q6	F7I9Q6_CALJA	unreviewed	Platelet glycoprotein 4 (Uncharacterized protein)	CD36	Callithrix jacchus (White-tufted-ear marmoset)	472
+F7GY56	F7GY56_CALJA	unreviewed	Protein lifeguard 2 (Uncharacterized protein)	FAIM2	Callithrix jacchus (White-tufted-ear marmoset)	316
+F7CGT7	F7CGT7_CALJA	unreviewed	Ephrin type-B receptor 1 (Uncharacterized protein)	EPHB1	Callithrix jacchus (White-tufted-ear marmoset)	984
+Q2XPT7	Q2XPT7_CANFA	unreviewed	Uncharacterized protein (VEGFR2)	KDR	Canis familiaris (Dog) (Canis lupus familiaris)	1355
+D2HEJ1	D2HEJ1_AILME	unreviewed	Uncharacterized protein (Fragment)	LOC100468919 PANDA_009217	Ailuropoda melanoleuca (Giant panda)	603
+Q3Y8M9	Q3Y8M9_BOVIN	unreviewed	Short transient receptor potential channel 1 (Transient receptor potential channel 1)	TRPC1	Bos taurus (Bovine)	794
+D2HQT0	D2HQT0_AILME	unreviewed	Uncharacterized protein (Fragment)	LRP6 PANDA_014280	Ailuropoda melanoleuca (Giant panda)	1463
+A9QMC3	A9QMC3_BOVIN	unreviewed	Growth hormone secretagogue receptor type 1a-like protein (Fragment)		Bos taurus (Bovine)	160
+G3QTG5	G3QTG5_GORGO	unreviewed	Uncharacterized protein	101124855	Gorilla gorilla gorilla (Lowland gorilla)	472
+D2HUI5	D2HUI5_AILME	unreviewed	Uncharacterized protein (Fragment)	TRPC4 PANDA_015941	Ailuropoda melanoleuca (Giant panda)	982
+D2HHG1	D2HHG1_AILME	unreviewed	Uncharacterized protein (Fragment)	LOC100484774 PANDA_010544	Ailuropoda melanoleuca (Giant panda)	366
+B5U8Y5	B5U8Y5_BOVIN	unreviewed	Growth hormone secretagogue receptor (Growth hormone secretagogue receptor type 1A) (Growth hormone secretagogue receptor, type 1A) (Uncharacterized protein)	GHSR	Bos taurus (Bovine)	366
+D2GWS8	D2GWS8_AILME	unreviewed	Uncharacterized protein (Fragment)	LOC100482729 PANDA_001292	Ailuropoda melanoleuca (Giant panda)	767
+A6QP71	A6QP71_BOVIN	unreviewed	CDH15 protein (Uncharacterized protein)	CDH15	Bos taurus (Bovine)	713
+Q2HJI7	Q2HJI7_BOVIN	unreviewed	Mal, T-cell differentiation protein-like (Uncharacterized protein)	MALL	Bos taurus (Bovine)	152
+D2HTE6	D2HTE6_AILME	unreviewed	Uncharacterized protein (Fragment)	LOC100483960 PANDA_015438	Ailuropoda melanoleuca (Giant panda)	397
+D2HRJ0	D2HRJ0_AILME	unreviewed	Uncharacterized protein (Fragment)	LOC100476584 PANDA_014612	Ailuropoda melanoleuca (Giant panda)	455
+I6LI22	I6LI22_MUSPF	unreviewed	CD4 (Uncharacterized protein)	CD4	Mustela putorius furo (European domestic ferret) (Mustela furo)	462
+E7CXS0	E7CXS0_PIG	unreviewed	Low density lipoprotein receptor-related protein 8 (Uncharacterized protein)	ApoER2 LRP8	Sus scrofa (Pig)	957
+H2PDE2	H2PDE2_PONAB	unreviewed	Uncharacterized protein	KDR	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	1356
+F6SDB7	F6SDB7_MACMU	unreviewed	Uncharacterized protein	LRP8	Macaca mulatta (Rhesus macaque)	959
+F7H8W1	F7H8W1_MACMU	unreviewed	Uncharacterized protein	SMO	Macaca mulatta (Rhesus macaque)	786
+F7GKB6	F7GKB6_MACMU	unreviewed	Uncharacterized protein	CDH13	Macaca mulatta (Rhesus macaque)	608
+F7GZB0	F7GZB0_MACMU	unreviewed	Calcium-activated potassium channel subunit alpha-1	KCNMA1	Macaca mulatta (Rhesus macaque)	1237
+F7GMT2	F7GMT2_MACMU	unreviewed	Uncharacterized protein	SCARB1	Macaca mulatta (Rhesus macaque)	552
+F6WG11	F6WG11_MACMU	unreviewed	Uncharacterized protein	KCNA5	Macaca mulatta (Rhesus macaque)	605
+F7HT59	F7HT59_MACMU	unreviewed	Uncharacterized protein (Fragment)		Macaca mulatta (Rhesus macaque)	2206
+F6YCD5	F6YCD5_CALJA	unreviewed	Uncharacterized protein (Fragment)	KCNMA1	Callithrix jacchus (White-tufted-ear marmoset)	1223
+H9FLU8	H9FLU8_MACMU	unreviewed	Smoothened homolog (Fragment)	SMO	Macaca mulatta (Rhesus macaque)	405
+F6XN02	F6XN02_CALJA	unreviewed	Uncharacterized protein (Fragment)	TEK	Callithrix jacchus (White-tufted-ear marmoset)	1116
+F6S8W0	F6S8W0_CALJA	unreviewed	Uncharacterized protein (Fragment)	SCARB1	Callithrix jacchus (White-tufted-ear marmoset)	491
+F7DCZ9	F7DCZ9_MACMU	unreviewed	Uncharacterized protein (Fragment)	CACNA1H	Macaca mulatta (Rhesus macaque)	1675
+F6Y514	F6Y514_MACMU	unreviewed	Uncharacterized protein (Fragment)	LOC695843	Macaca mulatta (Rhesus macaque)	1594
+H9FM03	H9FM03_MACMU	unreviewed	Voltage-dependent L-type calcium channel subunit alpha-1C isoform 23 (Fragment)	CACNA1C	Macaca mulatta (Rhesus macaque)	77
+F6QA32	F6QA32_CALJA	unreviewed	Uncharacterized protein (Fragment)	CACNA1H	Callithrix jacchus (White-tufted-ear marmoset)	2238
+F7E313	F7E313_MACMU	unreviewed	Uncharacterized protein	KDR	Macaca mulatta (Rhesus macaque)	1356
+F7FAE8	F7FAE8_MACMU	unreviewed	Uncharacterized protein	LOC695843	Macaca mulatta (Rhesus macaque)	1178
+F7EA82	F7EA82_MACMU	unreviewed	Uncharacterized protein	TRPC1	Macaca mulatta (Rhesus macaque)	792
+H9FJI4	H9FJI4_MACMU	unreviewed	Voltage-dependent L-type calcium channel subunit alpha-1C isoform 17 (Fragment)	CACNA1C	Macaca mulatta (Rhesus macaque)	379
+F7GPZ6	F7GPZ6_CALJA	unreviewed	Uncharacterized protein	SMO	Callithrix jacchus (White-tufted-ear marmoset)	787
+F7DGR5	F7DGR5_MACMU	unreviewed	Uncharacterized protein	F2R	Macaca mulatta (Rhesus macaque)	425
+F7B3D9	F7B3D9_CALJA	unreviewed	Uncharacterized protein (Fragment)	KCNA5	Callithrix jacchus (White-tufted-ear marmoset)	494
+F7GRQ4	F7GRQ4_CALJA	unreviewed	Uncharacterized protein (Fragment)	CDH15	Callithrix jacchus (White-tufted-ear marmoset)	720
+F7HRK0	F7HRK0_CALJA	unreviewed	Tyrosine-protein kinase receptor (EC 2.7.10.1) (Fragment)	INSR	Callithrix jacchus (White-tufted-ear marmoset)	1053
+H9FM02	H9FM02_MACMU	unreviewed	Voltage-dependent L-type calcium channel subunit alpha-1C isoform 9 (Fragment)	CACNA1C	Macaca mulatta (Rhesus macaque)	68
+F6TSL3	F6TSL3_MACMU	unreviewed	Uncharacterized protein	MAL	Macaca mulatta (Rhesus macaque)	130
+F7FK37	F7FK37_CALJA	unreviewed	Uncharacterized protein	CD36	Callithrix jacchus (White-tufted-ear marmoset)	396
+F6X7H6	F6X7H6_CALJA	unreviewed	Uncharacterized protein (Fragment)	CACNA1C	Callithrix jacchus (White-tufted-ear marmoset)	2027
+F7B186	F7B186_CALJA	unreviewed	Uncharacterized protein (Fragment)	F2R	Callithrix jacchus (White-tufted-ear marmoset)	430
+F7I8C9	F7I8C9_CALJA	unreviewed	Uncharacterized protein	LRP8	Callithrix jacchus (White-tufted-ear marmoset)	958
+F6Q9W8	F6Q9W8_MACMU	unreviewed	Uncharacterized protein (Fragment)	CDH15	Macaca mulatta (Rhesus macaque)	759
+F6UWR3	F6UWR3_MACMU	unreviewed	Uncharacterized protein	MALL	Macaca mulatta (Rhesus macaque)	152
+F7IGV5	F7IGV5_CALJA	unreviewed	Uncharacterized protein	LRP6	Callithrix jacchus (White-tufted-ear marmoset)	1615
+F6W758	F6W758_MACMU	unreviewed	Uncharacterized protein	FAIM2	Macaca mulatta (Rhesus macaque)	315
+F6ZTV3	F6ZTV3_CALJA	unreviewed	Uncharacterized protein	KDR	Callithrix jacchus (White-tufted-ear marmoset)	1356
+F6XGD3	F6XGD3_MACMU	unreviewed	T-cell surface glycoprotein CD4	CD4	Macaca mulatta (Rhesus macaque)	458
+G7NAM1	G7NAM1_MACMU	unreviewed	Putative uncharacterized protein	EGK_05559	Macaca mulatta (Rhesus macaque)	153
+F6SAV6	F6SAV6_CALJA	unreviewed	Uncharacterized protein	TRPC4	Callithrix jacchus (White-tufted-ear marmoset)	982
+F7DVV3	F7DVV3_CALJA	unreviewed	Uncharacterized protein (Fragment)	TRPC1	Callithrix jacchus (White-tufted-ear marmoset)	793
+F7A6Z0	F7A6Z0_CALJA	unreviewed	Uncharacterized protein (Fragment)	MALL	Callithrix jacchus (White-tufted-ear marmoset)	117
+F6Z4B1	F6Z4B1_MACMU	unreviewed	Uncharacterized protein	GHSR	Macaca mulatta (Rhesus macaque)	366
+G9K6Q5	G9K6Q5_MUSPF	unreviewed	Potassium voltage-gated channel, shaker-related subfamily, member 5 (Fragment)		Mustela putorius furo (European domestic ferret) (Mustela furo)	104
+M1EIM5	M1EIM5_MUSPF	unreviewed	Cadherin 15, M-cadherin (Fragment)		Mustela putorius furo (European domestic ferret) (Mustela furo)	369
+M3XXK4	M3XXK4_MUSPF	unreviewed	Uncharacterized protein	KCNMA1	Mustela putorius furo (European domestic ferret) (Mustela furo)	1020
+G9K9A5	G9K9A5_MUSPF	unreviewed	Mal, T-cell differentiation protein-like protein (Fragment)		Mustela putorius furo (European domestic ferret) (Mustela furo)	152
+G9KMJ3	G9KMJ3_MUSPF	unreviewed	Scavenger receptor class B, member 1 (Fragment)		Mustela putorius furo (European domestic ferret) (Mustela furo)	425
+M3Z3L3	M3Z3L3_MUSPF	unreviewed	Uncharacterized protein	CD36	Mustela putorius furo (European domestic ferret) (Mustela furo)	472
+M1EQN4	M1EQN4_MUSPF	unreviewed	Coagulation factor II receptor (Fragment)		Mustela putorius furo (European domestic ferret) (Mustela furo)	396
+M3Y1D3	M3Y1D3_MUSPF	unreviewed	Uncharacterized protein	KDR	Mustela putorius furo (European domestic ferret) (Mustela furo)	1355
+M3Y885	M3Y885_MUSPF	unreviewed	Uncharacterized protein	CDH15	Mustela putorius furo (European domestic ferret) (Mustela furo)	785
+G9KQ91	G9KQ91_MUSPF	unreviewed	Smoothened-like protein (Fragment)		Mustela putorius furo (European domestic ferret) (Mustela furo)	123
+M1EM29	M1EM29_MUSPF	unreviewed	CD36 molecule (Fragment)		Mustela putorius furo (European domestic ferret) (Mustela furo)	468
+M1EH65	M1EH65_MUSPF	unreviewed	Cadherin 13, H-cadherin (Fragment)		Mustela putorius furo (European domestic ferret) (Mustela furo)	147
+M3YD92	M3YD92_MUSPF	unreviewed	Uncharacterized protein	EPHB1	Mustela putorius furo (European domestic ferret) (Mustela furo)	984
+M3YK07	M3YK07_MUSPF	unreviewed	Uncharacterized protein	LRP6	Mustela putorius furo (European domestic ferret) (Mustela furo)	1462
+M3Y4K5	M3Y4K5_MUSPF	unreviewed	Uncharacterized protein (Fragment)	LRP8	Mustela putorius furo (European domestic ferret) (Mustela furo)	924
+M3YAM5	M3YAM5_MUSPF	unreviewed	Tyrosine-protein kinase receptor (EC 2.7.10.1)	INSR	Mustela putorius furo (European domestic ferret) (Mustela furo)	1352
+M1EGU6	M1EGU6_MUSPF	unreviewed	CD4 molecule (Fragment)		Mustela putorius furo (European domestic ferret) (Mustela furo)	460
+M3Y2G5	M3Y2G5_MUSPF	unreviewed	Uncharacterized protein	F2R	Mustela putorius furo (European domestic ferret) (Mustela furo)	426
+M3YCZ3	M3YCZ3_MUSPF	unreviewed	Uncharacterized protein	MALL	Mustela putorius furo (European domestic ferret) (Mustela furo)	153
+M3Z2Z8	M3Z2Z8_MUSPF	unreviewed	Uncharacterized protein (Fragment)	CACNA1C	Mustela putorius furo (European domestic ferret) (Mustela furo)	1479
+M3Y3D4	M3Y3D4_MUSPF	unreviewed	Uncharacterized protein	SMO	Mustela putorius furo (European domestic ferret) (Mustela furo)	790
+M3YCY7	M3YCY7_MUSPF	unreviewed	Uncharacterized protein	MAL	Mustela putorius furo (European domestic ferret) (Mustela furo)	153
+M3YWW8	M3YWW8_MUSPF	unreviewed	Uncharacterized protein	TEK	Mustela putorius furo (European domestic ferret) (Mustela furo)	1124
+M3YWH2	M3YWH2_MUSPF	unreviewed	Uncharacterized protein (Fragment)	CACNA1H	Mustela putorius furo (European domestic ferret) (Mustela furo)	2143
+M1EGS8	M1EGS8_MUSPF	unreviewed	Calcium channel, voltage-dependent, T type, alpha 1H subunit (Fragment)		Mustela putorius furo (European domestic ferret) (Mustela furo)	437
+M3YSY3	M3YSY3_MUSPF	unreviewed	Uncharacterized protein	FAIM2	Mustela putorius furo (European domestic ferret) (Mustela furo)	315
+M1EQR4	M1EQR4_MUSPF	unreviewed	Fas apoptotic inhibitory molecule 2 (Fragment)		Mustela putorius furo (European domestic ferret) (Mustela furo)	127
+M3XQP9	M3XQP9_MUSPF	unreviewed	Uncharacterized protein	SCARB1	Mustela putorius furo (European domestic ferret) (Mustela furo)	509
+G9KVA0	G9KVA0_MUSPF	unreviewed	Transient receptor potential cation channel, subfamily C, member 1 (Fragment)		Mustela putorius furo (European domestic ferret) (Mustela furo)	211
+G9K9A3	G9K9A3_MUSPF	unreviewed	Mal, T-cell differentiation protein (Fragment)		Mustela putorius furo (European domestic ferret) (Mustela furo)	152
+M3YUA9	M3YUA9_MUSPF	unreviewed	Uncharacterized protein	TRPC4	Mustela putorius furo (European domestic ferret) (Mustela furo)	977
+M1EFC3	M1EFC3_MUSPF	unreviewed	Cadherin 13, H-cadherin (Fragment)		Mustela putorius furo (European domestic ferret) (Mustela furo)	429
+M3YKC6	M3YKC6_MUSPF	unreviewed	Uncharacterized protein	TRPC1	Mustela putorius furo (European domestic ferret) (Mustela furo)	743
+F1MV64	F1MV64_BOVIN	unreviewed	Tyrosine-protein kinase receptor (EC 2.7.10.1) (Fragment)	INSR	Bos taurus (Bovine)	1382
+Q6L6S3	Q6L6S3_BOVIN	unreviewed	Transient receptor potential cation channel TRPC4 middle region 2 (Fragment)	trpc4	Bos taurus (Bovine)	127
+F6PYA5	F6PYA5_BOVIN	unreviewed	Uncharacterized protein	LRP8	Bos taurus (Bovine)	807
+F1N5T3	F1N5T3_BOVIN	unreviewed	Uncharacterized protein (Fragment)	CACNA1C	Bos taurus (Bovine)	2061
+F1MII5	F1MII5_BOVIN	unreviewed	Uncharacterized protein	EPHB1	Bos taurus (Bovine)	953
+F1MTJ1	F1MTJ1_BOVIN	unreviewed	Uncharacterized protein	KCNA5	Bos taurus (Bovine)	598
+F1MJK4	F1MJK4_BOVIN	unreviewed	Uncharacterized protein	CD4	Bos taurus (Bovine)	455
+Q0IIL9	Q0IIL9_BOVIN	unreviewed	TEK tyrosine kinase, endothelial	TEK	Bos taurus (Bovine)	1124
+F1N6T7	F1N6T7_BOVIN	unreviewed	Myelin and lymphocyte protein	MAL	Bos taurus (Bovine)	153
+F1N4J9	F1N4J9_BOVIN	unreviewed	Proteinase-activated receptor 1	F2R	Bos taurus (Bovine)	427
+F1MWF1	F1MWF1_BOVIN	unreviewed	Uncharacterized protein	KDR	Bos taurus (Bovine)	1356
+F1MDE1	F1MDE1_BOVIN	unreviewed	Uncharacterized protein (Fragment)	LRP6	Bos taurus (Bovine)	1604
+F1MQV2	F1MQV2_BOVIN	unreviewed	Uncharacterized protein (Fragment)	CACNA1H	Bos taurus (Bovine)	2258
+C1PI23	C1PI23_BOVIN	unreviewed	Growth hormone secretagogue receptor type 1A	GHSR	Bos taurus (Bovine)	365
+E1BE57	E1BE57_BOVIN	unreviewed	Uncharacterized protein	SMO	Bos taurus (Bovine)	780
+F7EG19	F7EG19_ORNAN	unreviewed	Uncharacterized protein (Fragment)	KCNA5	Ornithorhynchus anatinus (Duckbill platypus)	258
+F6U3B1	F6U3B1_ORNAN	unreviewed	Uncharacterized protein	KDR	Ornithorhynchus anatinus (Duckbill platypus)	1361
+F6XZZ3	F6XZZ3_ORNAN	unreviewed	Uncharacterized protein	TRPC4	Ornithorhynchus anatinus (Duckbill platypus)	895
+F7A3X8	F7A3X8_ORNAN	unreviewed	Uncharacterized protein (Fragment)	SMO	Ornithorhynchus anatinus (Duckbill platypus)	677
+F7DDU4	F7DDU4_ORNAN	unreviewed	Uncharacterized protein	MAL	Ornithorhynchus anatinus (Duckbill platypus)	272
+F7CYR5	F7CYR5_ORNAN	unreviewed	Uncharacterized protein (Fragment)	LRP8	Ornithorhynchus anatinus (Duckbill platypus)	301
+F6TYK1	F6TYK1_ORNAN	unreviewed	Uncharacterized protein	MALL	Ornithorhynchus anatinus (Duckbill platypus)	159
+F7EVG8	F7EVG8_ORNAN	unreviewed	Uncharacterized protein (Fragment)	INSR	Ornithorhynchus anatinus (Duckbill platypus)	1063
+F7FSF4	F7FSF4_ORNAN	unreviewed	Uncharacterized protein	CD36	Ornithorhynchus anatinus (Duckbill platypus)	473
+F7CQF2	F7CQF2_ORNAN	unreviewed	Uncharacterized protein	LRP6	Ornithorhynchus anatinus (Duckbill platypus)	1462
+F7CSV8	F7CSV8_ORNAN	unreviewed	Uncharacterized protein (Fragment)	CDH15	Ornithorhynchus anatinus (Duckbill platypus)	771
+F7FJ54	F7FJ54_ORNAN	unreviewed	Uncharacterized protein	TRPC1	Ornithorhynchus anatinus (Duckbill platypus)	743
+F7GEI2	F7GEI2_ORNAN	unreviewed	Uncharacterized protein	CDH13	Ornithorhynchus anatinus (Duckbill platypus)	469
+F7F3F3	F7F3F3_ORNAN	unreviewed	Uncharacterized protein	SCARB1	Ornithorhynchus anatinus (Duckbill platypus)	509
+H0WW58	H0WW58_OTOGA	unreviewed	Uncharacterized protein	KCNMA1	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	1076
+H0XJ31	H0XJ31_OTOGA	unreviewed	Uncharacterized protein	KCNA5	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	605
+H0XS84	H0XS84_OTOGA	unreviewed	Uncharacterized protein	CDH15	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	785
+H0X096	H0X096_OTOGA	unreviewed	Uncharacterized protein	CDH13	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	565
+H0X802	H0X802_OTOGA	unreviewed	Uncharacterized protein	CACNA1H	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	2323
+H0XG18	H0XG18_OTOGA	unreviewed	Uncharacterized protein (Fragment)	TEK	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	1114
+H0X9F8	H0X9F8_OTOGA	unreviewed	Uncharacterized protein	KDR	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	1358
+H0Y0P9	H0Y0P9_OTOGA	unreviewed	Uncharacterized protein	MALL	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	152
+H0WNY1	H0WNY1_OTOGA	unreviewed	Uncharacterized protein (Fragment)	SCARB1	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	468
+H0XFF5	H0XFF5_OTOGA	unreviewed	Uncharacterized protein	CD36	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	472
+H0XPZ0	H0XPZ0_OTOGA	unreviewed	Uncharacterized protein	F2R	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	427
+H0WWX8	H0WWX8_OTOGA	unreviewed	Uncharacterized protein (Fragment)	LRP6	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	1615
+H0XAK0	H0XAK0_OTOGA	unreviewed	Uncharacterized protein	MAL	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	153
+H0WLU7	H0WLU7_OTOGA	unreviewed	Tyrosine-protein kinase receptor (EC 2.7.10.1)	INSR	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	1366
+H0X8L0	H0X8L0_OTOGA	unreviewed	Uncharacterized protein	EPHB1	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	962
+H0X9M1	H0X9M1_OTOGA	unreviewed	Uncharacterized protein	SMO	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	786
+H0X8V9	H0X8V9_OTOGA	unreviewed	Uncharacterized protein (Fragment)	LRP8	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	886
+H0X3X4	H0X3X4_OTOGA	unreviewed	Uncharacterized protein	TRPC4	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	971
+H0XT40	H0XT40_OTOGA	unreviewed	Uncharacterized protein	FAIM2	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	316
+H0XPS4	H0XPS4_OTOGA	unreviewed	Uncharacterized protein	GHSR	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	365
+H0WH48	H0WH48_OTOGA	unreviewed	Uncharacterized protein (Fragment)	TRPC1	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	810
+H0X3R3	H0X3R3_OTOGA	unreviewed	Uncharacterized protein (Fragment)	CACNA1C	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	2005
+H2NG70	H2NG70_PONAB	unreviewed	Uncharacterized protein	KCNA5	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	602
+H2NJN8	H2NJN8_PONAB	unreviewed	Uncharacterized protein	TRPC4	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	893
+H2N7C5	H2N7C5_PONAB	unreviewed	Uncharacterized protein	LRP8	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	955
+H2NX99	H2NX99_PONAB	unreviewed	Tyrosine-protein kinase receptor (EC 2.7.10.1)	INSR	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	1305
+H2PNH3	H2PNH3_PONAB	unreviewed	Uncharacterized protein	SMO	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	789
+K7EUC9	K7EUC9_PONAB	unreviewed	Uncharacterized protein	LRP6	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	1000
+H2PFX0	H2PFX0_PONAB	unreviewed	Uncharacterized protein	F2R	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	389
+K7EV44	K7EV44_PONAB	unreviewed	Uncharacterized protein	TRPC1	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	793
+H2NH87	H2NH87_PONAB	unreviewed	Protein lifeguard 2	FAIM2	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	316
+H2PN18	H2PN18_PONAB	unreviewed	Uncharacterized protein	CD36	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	472
+H2PC06	H2PC06_PONAB	unreviewed	Uncharacterized protein	GHSR	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	366
+H2NJ33	H2NJ33_PONAB	unreviewed	Uncharacterized protein (Fragment)	SCARB1	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	471
+H2NPN4	H2NPN4_PONAB	unreviewed	Uncharacterized protein (Fragment)	CACNA1H	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	2011
+H2P5D7	H2P5D7_PONAB	unreviewed	Uncharacterized protein	MALL	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	152
+H2NRT5	H2NRT5_PONAB	unreviewed	Uncharacterized protein	CDH15	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	676
+H2P529	H2P529_PONAB	unreviewed	Uncharacterized protein	MAL	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	153
+H2NG39	H2NG39_PONAB	unreviewed	Uncharacterized protein	CACNA1C	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	2160
+H2PBH8	H2PBH8_PONAB	unreviewed	Uncharacterized protein (Fragment)	EPHB1	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	1057
+H2Q594	H2Q594_PANTR	unreviewed	Uncharacterized protein	KCNA5	Pan troglodytes (Chimpanzee)	602
+H2QBR2	H2QBR2_PANTR	unreviewed	Uncharacterized protein (Fragment)	CDH15	Pan troglodytes (Chimpanzee)	694
+H2Q5W0	H2Q5W0_PANTR	unreviewed	Uncharacterized protein	FAIM2	Pan troglodytes (Chimpanzee)	316
+H2QX37	H2QX37_PANTR	unreviewed	Uncharacterized protein	TEK	Pan troglodytes (Chimpanzee)	1123
+H2Q765	H2Q765_PANTR	unreviewed	Uncharacterized protein	SCARB1	Pan troglodytes (Chimpanzee)	552
+H2Q573	H2Q573_PANTR	unreviewed	Uncharacterized protein	CACNA1C	Pan troglodytes (Chimpanzee)	2186
+H2RB07	H2RB07_PANTR	unreviewed	T-cell surface glycoprotein CD4	CD4	Pan troglodytes (Chimpanzee)	458
+H2QIJ1	H2QIJ1_PANTR	unreviewed	Uncharacterized protein	MALL	Pan troglodytes (Chimpanzee)	153
+H2QF61	H2QF61_PANTR	unreviewed	Tyrosine-protein kinase receptor (EC 2.7.10.1) (Fragment)	INSR	Pan troglodytes (Chimpanzee)	1374
+H2QVC7	H2QVC7_PANTR	unreviewed	Uncharacterized protein	SMO	Pan troglodytes (Chimpanzee)	786
+H2QPH6	H2QPH6_PANTR	unreviewed	Uncharacterized protein	KDR	Pan troglodytes (Chimpanzee)	1356
+H2QNR4	H2QNR4_PANTR	unreviewed	Uncharacterized protein	GHSR	Pan troglodytes (Chimpanzee)	366
+H2RC21	H2RC21_PANTR	unreviewed	Uncharacterized protein	EPHB1	Pan troglodytes (Chimpanzee)	984
+H2PZ23	H2PZ23_PANTR	unreviewed	Uncharacterized protein	LRP8	Pan troglodytes (Chimpanzee)	960
+H2QIB8	H2QIB8_PANTR	unreviewed	Uncharacterized protein	MAL	Pan troglodytes (Chimpanzee)	153
+M3W235	M3W235_FELCA	unreviewed	Uncharacterized protein	CDH13	Felis catus (Cat) (Felis silvestris catus)	361
+M3W870	M3W870_FELCA	unreviewed	Uncharacterized protein (Fragment)	KCNMA1	Felis catus (Cat) (Felis silvestris catus)	1098
+M3W4Z5	M3W4Z5_FELCA	unreviewed	Uncharacterized protein (Fragment)	LRP8	Felis catus (Cat) (Felis silvestris catus)	889
+M3WUZ0	M3WUZ0_FELCA	unreviewed	Uncharacterized protein	CD36	Felis catus (Cat) (Felis silvestris catus)	472
+M3VTZ9	M3VTZ9_FELCA	unreviewed	Uncharacterized protein (Fragment)	LRP6	Felis catus (Cat) (Felis silvestris catus)	1613
+M3W1W4	M3W1W4_FELCA	unreviewed	Uncharacterized protein	CD4	Felis catus (Cat) (Felis silvestris catus)	474
+M3WP54	M3WP54_FELCA	unreviewed	Uncharacterized protein (Fragment)	CACNA1H	Felis catus (Cat) (Felis silvestris catus)	1743
+M3VZL0	M3VZL0_FELCA	unreviewed	Tyrosine-protein kinase receptor (EC 2.7.10.1) (Fragment)	INSR	Felis catus (Cat) (Felis silvestris catus)	1352
+M3WB98	M3WB98_FELCA	unreviewed	Uncharacterized protein	MAL	Felis catus (Cat) (Felis silvestris catus)	153
+M3VUZ0	M3VUZ0_FELCA	unreviewed	Uncharacterized protein	EPHB1	Felis catus (Cat) (Felis silvestris catus)	962
+M3WUR2	M3WUR2_FELCA	unreviewed	Uncharacterized protein (Fragment)	FAIM2	Felis catus (Cat) (Felis silvestris catus)	316
+M3W575	M3W575_FELCA	unreviewed	Uncharacterized protein	TRPC4	Felis catus (Cat) (Felis silvestris catus)	945
+M3XCD5	M3XCD5_FELCA	unreviewed	Uncharacterized protein	MALL	Felis catus (Cat) (Felis silvestris catus)	153
+M3W050	M3W050_FELCA	unreviewed	Uncharacterized protein	F2R	Felis catus (Cat) (Felis silvestris catus)	427
+M3WX01	M3WX01_FELCA	unreviewed	Uncharacterized protein	TRPC1	Felis catus (Cat) (Felis silvestris catus)	747
+M3WES4	M3WES4_FELCA	unreviewed	Uncharacterized protein	GHSR	Felis catus (Cat) (Felis silvestris catus)	366
+M3W1R7	M3W1R7_FELCA	unreviewed	Uncharacterized protein	CDH15	Felis catus (Cat) (Felis silvestris catus)	766
+M3WKY6	M3WKY6_FELCA	unreviewed	Uncharacterized protein (Fragment)	SCARB1	Felis catus (Cat) (Felis silvestris catus)	520
+M3W9S8	M3W9S8_FELCA	unreviewed	Uncharacterized protein (Fragment)	CACNA1C	Felis catus (Cat) (Felis silvestris catus)	2057
+M3X412	M3X412_FELCA	unreviewed	Uncharacterized protein (Fragment)	TEK	Felis catus (Cat) (Felis silvestris catus)	1128
+M3WBW2	M3WBW2_FELCA	unreviewed	Uncharacterized protein (Fragment)	KDR	Felis catus (Cat) (Felis silvestris catus)	1449
+F7EBU3	F7EBU3_MONDO	unreviewed	Uncharacterized protein	KCNA5	Monodelphis domestica (Gray short-tailed opossum)	609
+A6MAP0	A6MAP0_MONDO	unreviewed	CD4		Monodelphis domestica (Gray short-tailed opossum)	461
+F6WCN0	F6WCN0_MONDO	unreviewed	Uncharacterized protein	MAL	Monodelphis domestica (Gray short-tailed opossum)	159
+F6TA59	F6TA59_MONDO	unreviewed	Uncharacterized protein	TRPC4	Monodelphis domestica (Gray short-tailed opossum)	975
+F7E0V5	F7E0V5_MONDO	unreviewed	Uncharacterized protein	SCARB1	Monodelphis domestica (Gray short-tailed opossum)	509
+F6PG65	F6PG65_MONDO	unreviewed	Uncharacterized protein	LRP6	Monodelphis domestica (Gray short-tailed opossum)	1613
+F6TZU4	F6TZU4_MONDO	unreviewed	Uncharacterized protein	TRPC1	Monodelphis domestica (Gray short-tailed opossum)	749
+F6VMW7	F6VMW7_MONDO	unreviewed	Uncharacterized protein (Fragment)	CACNA1H	Monodelphis domestica (Gray short-tailed opossum)	2029
+F6WSL8	F6WSL8_MONDO	unreviewed	Uncharacterized protein	MALL	Monodelphis domestica (Gray short-tailed opossum)	155
+F6USZ0	F6USZ0_MONDO	unreviewed	Uncharacterized protein (Fragment)	LRP8	Monodelphis domestica (Gray short-tailed opossum)	823
+F6TEV1	F6TEV1_MONDO	unreviewed	Uncharacterized protein	TEK	Monodelphis domestica (Gray short-tailed opossum)	1124
+F7AG95	F7AG95_MONDO	unreviewed	Uncharacterized protein (Fragment)	EPHB1	Monodelphis domestica (Gray short-tailed opossum)	922
+F6SX86	F6SX86_MONDO	unreviewed	Uncharacterized protein	FAIM2	Monodelphis domestica (Gray short-tailed opossum)	316
+F6VKJ7	F6VKJ7_MONDO	unreviewed	Uncharacterized protein	CD36	Monodelphis domestica (Gray short-tailed opossum)	471
+F7E7J3	F7E7J3_MONDO	unreviewed	Uncharacterized protein	SMO	Monodelphis domestica (Gray short-tailed opossum)	656
+F7EBN5	F7EBN5_MONDO	unreviewed	Uncharacterized protein (Fragment)	CDH15	Monodelphis domestica (Gray short-tailed opossum)	759
+F7FT01	F7FT01_MONDO	unreviewed	Uncharacterized protein (Fragment)	GHSR	Monodelphis domestica (Gray short-tailed opossum)	332
+F7BHX0	F7BHX0_MONDO	unreviewed	Uncharacterized protein	F2R	Monodelphis domestica (Gray short-tailed opossum)	426
+F7F370	F7F370_MONDO	unreviewed	Tyrosine-protein kinase receptor (EC 2.7.10.1)	INSR	Monodelphis domestica (Gray short-tailed opossum)	1378
+F7DLA5	F7DLA5_MONDO	unreviewed	Uncharacterized protein	KDR	Monodelphis domestica (Gray short-tailed opossum)	1349
+F6XC19	F6XC19_MONDO	unreviewed	Uncharacterized protein	CACNA1C	Monodelphis domestica (Gray short-tailed opossum)	1567
+Q2F2Y0	Q2F2Y0_PAPAN	unreviewed	Growth hormone secretagogue receptor (Fragment)	GHSR	Papio anubis (Olive baboon)	195
+G3WDK6	G3WDK6_SARHA	unreviewed	Uncharacterized protein	KCNA5	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	609
+G3WYS3	G3WYS3_SARHA	unreviewed	Uncharacterized protein (Fragment)	KCNMA1	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	1098
+G3VSE5	G3VSE5_SARHA	unreviewed	Uncharacterized protein	CXADR	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	364
+G3WK64	G3WK64_SARHA	unreviewed	Uncharacterized protein	EPHB1	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	723
+G3WEZ2	G3WEZ2_SARHA	unreviewed	Uncharacterized protein	TRPC4	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	975
+G3WC58	G3WC58_SARHA	unreviewed	Uncharacterized protein	FAIM2	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	316
+G3VD91	G3VD91_SARHA	unreviewed	Uncharacterized protein	MALL	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	136
+G3WR28	G3WR28_SARHA	unreviewed	Uncharacterized protein	CACNA1C	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	2069
+G3VH07	G3VH07_SARHA	unreviewed	Uncharacterized protein (Fragment)	SCARB1	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	545
+G3W326	G3W326_SARHA	unreviewed	Uncharacterized protein	CD36	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	473
+G3WTA4	G3WTA4_SARHA	unreviewed	Uncharacterized protein	CD4	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	485
+G3WM54	G3WM54_SARHA	unreviewed	Uncharacterized protein (Fragment)	CDH15	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	783
+G3WLX7	G3WLX7_SARHA	unreviewed	Uncharacterized protein	LRP6	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	1614
+G3W485	G3W485_SARHA	unreviewed	Uncharacterized protein	SMO	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	656
+G3W302	G3W302_SARHA	unreviewed	Uncharacterized protein	KDR	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	1349
+G3WE27	G3WE27_SARHA	unreviewed	Uncharacterized protein (Fragment)	CACNA1H	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	2177
+G3WJI8	G3WJI8_SARHA	unreviewed	Uncharacterized protein	MAL	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	160
+G3WR79	G3WR79_SARHA	unreviewed	Uncharacterized protein (Fragment)	TRPC1	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	737
+G3W399	G3W399_SARHA	unreviewed	Uncharacterized protein	GHSR	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	362
+G3W484	G3W484_SARHA	unreviewed	Uncharacterized protein (Fragment)	SMO	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	759
+G3W599	G3W599_SARHA	unreviewed	Uncharacterized protein	F2R	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	426
+G3W4J2	G3W4J2_SARHA	unreviewed	Uncharacterized protein	CDH13	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	608
+F6RVE3	F6RVE3_HORSE	unreviewed	Uncharacterized protein		Equus caballus (Horse)	1131
+F7DUM5	F7DUM5_HORSE	unreviewed	Uncharacterized protein	KCNA5	Equus caballus (Horse)	595
+F6VAY2	F6VAY2_HORSE	unreviewed	Uncharacterized protein (Fragment)	LRP8	Equus caballus (Horse)	962
+F6PIF5	F6PIF5_HORSE	unreviewed	Uncharacterized protein (Fragment)	TRPC4	Equus caballus (Horse)	978
+F6YFJ5	F6YFJ5_HORSE	unreviewed	Uncharacterized protein (Fragment)	CACNA1C	Equus caballus (Horse)	2062
+F6VZM1	F6VZM1_HORSE	unreviewed	Uncharacterized protein (Fragment)	CACNA1H	Equus caballus (Horse)	1801
+F6R9D2	F6R9D2_HORSE	unreviewed	Tyrosine-protein kinase receptor (EC 2.7.10.1) (Fragment)	INSR	Equus caballus (Horse)	1369
+F6ZAA8	F6ZAA8_HORSE	unreviewed	Uncharacterized protein (Fragment)	SMO	Equus caballus (Horse)	782
+F6WW26	F6WW26_HORSE	unreviewed	Uncharacterized protein	F2R	Equus caballus (Horse)	428
+F6U904	F6U904_HORSE	unreviewed	Uncharacterized protein	CD36	Equus caballus (Horse)	472
+F6QF00	F6QF00_HORSE	unreviewed	Uncharacterized protein	GHSR	Equus caballus (Horse)	366
+F6Y5Y6	F6Y5Y6_HORSE	unreviewed	Uncharacterized protein	FAIM2	Equus caballus (Horse)	316
+F7DA59	F7DA59_HORSE	unreviewed	Uncharacterized protein (Fragment)	TRPC1	Equus caballus (Horse)	757
+F6Y6X8	F6Y6X8_HORSE	unreviewed	Uncharacterized protein	CD4	Equus caballus (Horse)	461
+F6ZLC2	F6ZLC2_HORSE	unreviewed	Uncharacterized protein	EPHB1	Equus caballus (Horse)	711
+F6WQ81	F6WQ81_HORSE	unreviewed	Uncharacterized protein	TEK	Equus caballus (Horse)	1125
+F6XF87	F6XF87_HORSE	unreviewed	Uncharacterized protein (Fragment)	SCARB1	Equus caballus (Horse)	468
+F6WEI6	F6WEI6_HORSE	unreviewed	Uncharacterized protein (Fragment)	CDH15	Equus caballus (Horse)	752
+F7DHE6	F7DHE6_HORSE	unreviewed	Uncharacterized protein (Fragment)	KDR	Equus caballus (Horse)	1414
+F7DHA1	F7DHA1_HORSE	unreviewed	Uncharacterized protein	LRP6	Equus caballus (Horse)	1613
+G3SSH2	G3SSH2_LOXAF	unreviewed	Uncharacterized protein		Loxodonta africana (African elephant)	1077
+G3ULP5	G3ULP5_LOXAF	unreviewed	Uncharacterized protein	LOC100670333	Loxodonta africana (African elephant)	602
+G3TXJ0	G3TXJ0_LOXAF	unreviewed	Uncharacterized protein (Fragment)	TEK	Loxodonta africana (African elephant)	1125
+G3SRM3	G3SRM3_LOXAF	unreviewed	Uncharacterized protein	LOC100655405	Loxodonta africana (African elephant)	153
+G3TAV7	G3TAV7_LOXAF	unreviewed	Uncharacterized protein (Fragment)		Loxodonta africana (African elephant)	716
+G3STZ0	G3STZ0_LOXAF	unreviewed	Uncharacterized protein (Fragment)		Loxodonta africana (African elephant)	744
+G3SMS9	G3SMS9_LOXAF	unreviewed	Uncharacterized protein	TRPC4	Loxodonta africana (African elephant)	978
+G3TB43	G3TB43_LOXAF	unreviewed	Uncharacterized protein	LOC100668802	Loxodonta africana (African elephant)	788
+G3U7J6	G3U7J6_LOXAF	unreviewed	Uncharacterized protein (Fragment)	LOC100675598	Loxodonta africana (African elephant)	1763
+G3TIK8	G3TIK8_LOXAF	unreviewed	Uncharacterized protein	GHSR	Loxodonta africana (African elephant)	366
+G3UEM7	G3UEM7_LOXAF	unreviewed	Tyrosine-protein kinase receptor (EC 2.7.10.1) (Fragment)	LOC100668116	Loxodonta africana (African elephant)	1366
+G3TC77	G3TC77_LOXAF	unreviewed	Uncharacterized protein	LOC100655123	Loxodonta africana (African elephant)	153
+G3TDA1	G3TDA1_LOXAF	unreviewed	Uncharacterized protein	KDR	Loxodonta africana (African elephant)	1356
+G3T962	G3T962_LOXAF	unreviewed	Uncharacterized protein (Fragment)		Loxodonta africana (African elephant)	909
+G3TG59	G3TG59_LOXAF	unreviewed	Uncharacterized protein	LOC100673737	Loxodonta africana (African elephant)	268
+G3TJA9	G3TJA9_LOXAF	unreviewed	Uncharacterized protein (Fragment)		Loxodonta africana (African elephant)	2004
+G3TKI5	G3TKI5_LOXAF	unreviewed	Uncharacterized protein (Fragment)		Loxodonta africana (African elephant)	361
+G3ULS8	G3ULS8_LOXAF	unreviewed	Uncharacterized protein		Loxodonta africana (African elephant)	471
+G3ULU2	G3ULU2_LOXAF	unreviewed	Uncharacterized protein (Fragment)	F2R	Loxodonta africana (African elephant)	331
+G3SLK9	G3SLK9_LOXAF	unreviewed	Uncharacterized protein (Fragment)	LOC100673412	Loxodonta africana (African elephant)	457
+G3T6V0	G3T6V0_LOXAF	unreviewed	Uncharacterized protein	LOC100666060	Loxodonta africana (African elephant)	474
+G3THM2	G3THM2_LOXAF	unreviewed	Uncharacterized protein	LOC100658734	Loxodonta africana (African elephant)	1613
+G3SX54	G3SX54_LOXAF	unreviewed	Uncharacterized protein (Fragment)	CDH15	Loxodonta africana (African elephant)	771
+J9JIM1	J9JIM1_PIG	unreviewed	Scavenger receptor class B member 1 (Fragment)	SCARB1	Sus scrofa (Pig)	470
+Q9GMZ3	Q9GMZ3_PIG	unreviewed	Voltage-dependent potassium channel (Fragment)	Kv1.5	Sus scrofa (Pig)	108
+F1SP85	F1SP85_PIG	unreviewed	Uncharacterized protein	TEK	Sus scrofa (Pig)	1021
+F1S2H5	F1S2H5_PIG	unreviewed	Uncharacterized protein	F2R	Sus scrofa (Pig)	429
+F1S6M4	F1S6M4_PIG	unreviewed	Uncharacterized protein (Fragment)	CDH15	Sus scrofa (Pig)	665
+Q7YRP5	Q7YRP5_PIG	unreviewed	Scavenger receptor class B member 1 (Fragment)		Sus scrofa (Pig)	52
+F1RWF1	F1RWF1_PIG	unreviewed	Uncharacterized protein (Fragment)	KDR	Sus scrofa (Pig)	1452
+C0JJ14	C0JJ14_PIG	unreviewed	Transient receptor potential channel subfamily C member 1	TRPC1	Sus scrofa (Pig)	760
+F1SHA9	F1SHA9_PIG	unreviewed	Uncharacterized protein	FAIM2	Sus scrofa (Pig)	316
+F1SQ65	F1SQ65_PIG	unreviewed	Uncharacterized protein	LRP6	Sus scrofa (Pig)	1470
+F1SU64	F1SU64_PIG	unreviewed	Uncharacterized protein	MAL	Sus scrofa (Pig)	153
+A9UHP2	A9UHP2_PIG	unreviewed	Battenin	CNL3	Sus scrofa (Pig)	438
+F1SMQ3	F1SMQ3_PIG	unreviewed	Uncharacterized protein	SMO	Sus scrofa (Pig)	783
+F1S5S4	F1S5S4_PIG	unreviewed	Uncharacterized protein (Fragment)	CDH13	Sus scrofa (Pig)	393
+F1RS35	F1RS35_PIG	unreviewed	Uncharacterized protein	TRPC4	Sus scrofa (Pig)	977
+G1RPV5	G1RPV5_NOMLE	unreviewed	Uncharacterized protein (Fragment)	SMO	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	677
+G1S2P7	G1S2P7_NOMLE	unreviewed	Uncharacterized protein	TEK	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	1124
+G1R0I0	G1R0I0_NOMLE	unreviewed	Uncharacterized protein	GHSR	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	366
+G1QQ24	G1QQ24_NOMLE	unreviewed	Uncharacterized protein	LOC100596811	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	151
+G1S8L1	G1S8L1_NOMLE	unreviewed	Uncharacterized protein (Fragment)	LRP8	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	886
+G1QGH4	G1QGH4_NOMLE	unreviewed	Uncharacterized protein	LOC100588479	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	153
+G1RQ03	G1RQ03_NOMLE	unreviewed	Uncharacterized protein	F2R	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	425
+G1QHT7	G1QHT7_NOMLE	unreviewed	Uncharacterized protein		Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	1313
+M3Z9L1	M3Z9L1_NOMLE	unreviewed	Uncharacterized protein		Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	1233
+G1RAQ1	G1RAQ1_NOMLE	unreviewed	Uncharacterized protein	KDR	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	1356
+G1QTL0	G1QTL0_NOMLE	unreviewed	Uncharacterized protein	LRP6	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	1613
+F1PT14	F1PT14_CANFA	unreviewed	Calcium-activated potassium channel subunit alpha-1 (Fragment)	KCNMA1	Canis familiaris (Dog) (Canis lupus familiaris)	1030
+J9NWB7	J9NWB7_CANFA	unreviewed	Uncharacterized protein	KCNA5	Canis familiaris (Dog) (Canis lupus familiaris)	605
+F1PCS0	F1PCS0_CANFA	unreviewed	Uncharacterized protein	LRP6	Canis familiaris (Dog) (Canis lupus familiaris)	1613
+F1P8U6	F1P8U6_CANFA	unreviewed	Uncharacterized protein	TEK	Canis familiaris (Dog) (Canis lupus familiaris)	1124
+F1PEJ6	F1PEJ6_CANFA	unreviewed	Uncharacterized protein	SMO	Canis familiaris (Dog) (Canis lupus familiaris)	659
+E2QUL7	E2QUL7_CANFA	unreviewed	Uncharacterized protein	TRPC4	Canis familiaris (Dog) (Canis lupus familiaris)	946
+F1PTF6	F1PTF6_CANFA	unreviewed	Uncharacterized protein	F2R	Canis familiaris (Dog) (Canis lupus familiaris)	427
+F1PNA5	F1PNA5_CANFA	unreviewed	Uncharacterized protein	EPHB1	Canis familiaris (Dog) (Canis lupus familiaris)	984
+A0ZSX7	A0ZSX7_CANFA	unreviewed	L type calcium channel alfa1c subunit (Fragment)	cacna1c	Canis familiaris (Dog) (Canis lupus familiaris)	240
+E2R4D6	E2R4D6_CANFA	unreviewed	Uncharacterized protein	CDH15	Canis familiaris (Dog) (Canis lupus familiaris)	781
+F1Q463	F1Q463_CANFA	unreviewed	Uncharacterized protein (Fragment)	CACNA1H	Canis familiaris (Dog) (Canis lupus familiaris)	2255
+E2RB67	E2RB67_CANFA	unreviewed	Uncharacterized protein	MALL	Canis familiaris (Dog) (Canis lupus familiaris)	153
+F1Q179	F1Q179_CANFA	unreviewed	Uncharacterized protein	LRP8	Canis familiaris (Dog) (Canis lupus familiaris)	1003
+F1PQT1	F1PQT1_CANFA	unreviewed	Uncharacterized protein	SCARB1	Canis familiaris (Dog) (Canis lupus familiaris)	455
+F1Q382	F1Q382_CANFA	unreviewed	Uncharacterized protein (Fragment)	CACNA1C	Canis familiaris (Dog) (Canis lupus familiaris)	2179
+A5HKU8	A5HKU8_CANFA	unreviewed	Ghrelin receptor	GHSR	Canis familiaris (Dog) (Canis lupus familiaris)	349
+F1PE38	F1PE38_CANFA	unreviewed	Uncharacterized protein	CDH13	Canis familiaris (Dog) (Canis lupus familiaris)	608
+F1PN63	F1PN63_CANFA	unreviewed	Myelin and lymphocyte protein	MAL	Canis familiaris (Dog) (Canis lupus familiaris)	153
+F1P7R2	F1P7R2_CANFA	unreviewed	Uncharacterized protein (Fragment)	FAIM2	Canis familiaris (Dog) (Canis lupus familiaris)	316
+E2RPM8	E2RPM8_CANFA	unreviewed	Tyrosine-protein kinase receptor (EC 2.7.10.1) (Fragment)	INSR	Canis familiaris (Dog) (Canis lupus familiaris)	1373
+G3R8M9	G3R8M9_GORGO	unreviewed	Uncharacterized protein	101146226	Gorilla gorilla gorilla (Lowland gorilla)	602
+G1LSR5	G1LSR5_AILME	unreviewed	Uncharacterized protein (Fragment)	LRP8	Ailuropoda melanoleuca (Giant panda)	964
+G1LM74	G1LM74_AILME	unreviewed	Uncharacterized protein (Fragment)	CACNA1H	Ailuropoda melanoleuca (Giant panda)	2153
+G3RQN0	G3RQN0_GORGO	unreviewed	Uncharacterized protein (Fragment)	101153410	Gorilla gorilla gorilla (Lowland gorilla)	1116
+G1L560	G1L560_AILME	unreviewed	Uncharacterized protein (Fragment)	EPHB1	Ailuropoda melanoleuca (Giant panda)	945
+G1LBT4	G1LBT4_AILME	unreviewed	Uncharacterized protein (Fragment)	CACNA1C	Ailuropoda melanoleuca (Giant panda)	1978
+G1MHF1	G1MHF1_AILME	unreviewed	Uncharacterized protein (Fragment)	KCNMA1	Ailuropoda melanoleuca (Giant panda)	1125
+D2HWF7	D2HWF7_AILME	unreviewed	Putative uncharacterized protein (Fragment)	PANDA_016803	Ailuropoda melanoleuca (Giant panda)	133
+G3QL33	G3QL33_GORGO	unreviewed	Uncharacterized protein	101128130	Gorilla gorilla gorilla (Lowland gorilla)	726
+G3RE07	G3RE07_GORGO	unreviewed	Uncharacterized protein	101133010	Gorilla gorilla gorilla (Lowland gorilla)	984
+G3RIN5	G3RIN5_GORGO	unreviewed	Uncharacterized protein	101153987	Gorilla gorilla gorilla (Lowland gorilla)	1124
+G1L4T4	G1L4T4_AILME	unreviewed	Uncharacterized protein (Fragment)	TEK	Ailuropoda melanoleuca (Giant panda)	1127
+G1MAL0	G1MAL0_AILME	unreviewed	Uncharacterized protein	SCARB1	Ailuropoda melanoleuca (Giant panda)	509
+G3QUG5	G3QUG5_GORGO	unreviewed	Uncharacterized protein	101150667	Gorilla gorilla gorilla (Lowland gorilla)	509
+G3RZS6	G3RZS6_GORGO	unreviewed	Uncharacterized protein	101142368	Gorilla gorilla gorilla (Lowland gorilla)	2301
+G3SFQ1	G3SFQ1_GORGO	unreviewed	Uncharacterized protein	101129513	Gorilla gorilla gorilla (Lowland gorilla)	366
+D2H590	D2H590_AILME	unreviewed	Putative uncharacterized protein (Fragment)	PANDA_005044	Ailuropoda melanoleuca (Giant panda)	794
+D2GW08	D2GW08_AILME	unreviewed	Putative uncharacterized protein (Fragment)	PANDA_000949	Ailuropoda melanoleuca (Giant panda)	415
+G3R7B5	G3R7B5_GORGO	unreviewed	Uncharacterized protein	101149376	Gorilla gorilla gorilla (Lowland gorilla)	813
+G3QW39	G3QW39_GORGO	unreviewed	Uncharacterized protein	101145891	Gorilla gorilla gorilla (Lowland gorilla)	982
+G1M225	G1M225_AILME	unreviewed	Uncharacterized protein (Fragment)	TRPC1	Ailuropoda melanoleuca (Giant panda)	810
+G3RQJ8	G3RQJ8_GORGO	unreviewed	Tyrosine-protein kinase receptor (EC 2.7.10.1) (Fragment)		Gorilla gorilla gorilla (Lowland gorilla)	1356
+G3QTU5	G3QTU5_GORGO	unreviewed	Uncharacterized protein	101139017	Gorilla gorilla gorilla (Lowland gorilla)	153
+G3QN57	G3QN57_GORGO	unreviewed	Uncharacterized protein (Fragment)	101149658	Gorilla gorilla gorilla (Lowland gorilla)	690
+D2HWF8	D2HWF8_AILME	unreviewed	Putative uncharacterized protein (Fragment)	PANDA_016804	Ailuropoda melanoleuca (Giant panda)	130
+G1LNQ5	G1LNQ5_AILME	unreviewed	Tyrosine-protein kinase receptor (EC 2.7.10.1) (Fragment)	INSR	Ailuropoda melanoleuca (Giant panda)	1360
+G3RAP9	G3RAP9_GORGO	unreviewed	Uncharacterized protein (Fragment)	101127110	Gorilla gorilla gorilla (Lowland gorilla)	1454
+G1LT13	G1LT13_AILME	unreviewed	Uncharacterized protein	MALL	Ailuropoda melanoleuca (Giant panda)	153
+G3S7P7	G3S7P7_GORGO	unreviewed	Uncharacterized protein (Fragment)	101144795	Gorilla gorilla gorilla (Lowland gorilla)	809
+G1LT33	G1LT33_AILME	unreviewed	Uncharacterized protein	MAL	Ailuropoda melanoleuca (Giant panda)	153
+G3QJV7	G3QJV7_GORGO	unreviewed	Uncharacterized protein (Fragment)	101134060	Gorilla gorilla gorilla (Lowland gorilla)	2062
+G1MCS1	G1MCS1_AILME	unreviewed	Uncharacterized protein	CD36	Ailuropoda melanoleuca (Giant panda)	472
+G1MJC8	G1MJC8_AILME	unreviewed	Uncharacterized protein (Fragment)	KDR	Ailuropoda melanoleuca (Giant panda)	1420
+G3QL31	G3QL31_GORGO	unreviewed	Uncharacterized protein	101130322	Gorilla gorilla gorilla (Lowland gorilla)	458
+G1L2J3	G1L2J3_AILME	unreviewed	Uncharacterized protein (Fragment)	FAIM2	Ailuropoda melanoleuca (Giant panda)	315
+G3R4I1	G3R4I1_GORGO	unreviewed	Uncharacterized protein	101144448	Gorilla gorilla gorilla (Lowland gorilla)	425
+D2HJC3	D2HJC3_AILME	unreviewed	Putative uncharacterized protein (Fragment)	PANDA_011393	Ailuropoda melanoleuca (Giant panda)	311
+G3QK60	G3QK60_GORGO	unreviewed	Uncharacterized protein	101144038	Gorilla gorilla gorilla (Lowland gorilla)	153
+G3SA66	G3SA66_GORGO	unreviewed	Uncharacterized protein	101126235	Gorilla gorilla gorilla (Lowland gorilla)	316
+G3QI56	G3QI56_GORGO	unreviewed	Uncharacterized protein	101142205	Gorilla gorilla gorilla (Lowland gorilla)	1613
+G1QB36	G1QB36_MYOLU	unreviewed	Uncharacterized protein	CD36	Myotis lucifugus (Little brown bat)	472
+G1NSB2	G1NSB2_MYOLU	unreviewed	Uncharacterized protein	GHSR	Myotis lucifugus (Little brown bat)	368
+G1NUH9	G1NUH9_MYOLU	unreviewed	Uncharacterized protein	SMO	Myotis lucifugus (Little brown bat)	792
+G1PNH9	G1PNH9_MYOLU	unreviewed	Uncharacterized protein (Fragment)	KDR	Myotis lucifugus (Little brown bat)	1450
+G1QDT4	G1QDT4_MYOLU	unreviewed	Uncharacterized protein (Fragment)	F2R	Myotis lucifugus (Little brown bat)	393
+G1PNP3	G1PNP3_MYOLU	unreviewed	Tyrosine-protein kinase receptor (EC 2.7.10.1) (Fragment)	INSR	Myotis lucifugus (Little brown bat)	1336
+G1PGN5	G1PGN5_MYOLU	unreviewed	Uncharacterized protein (Fragment)	LRP6	Myotis lucifugus (Little brown bat)	1609
+G1PPG7	G1PPG7_MYOLU	unreviewed	Uncharacterized protein (Fragment)	CACNA1C	Myotis lucifugus (Little brown bat)	2005
+G1PQ91	G1PQ91_MYOLU	unreviewed	Uncharacterized protein (Fragment)	TRPC1	Myotis lucifugus (Little brown bat)	810
+G1PEP8	G1PEP8_MYOLU	unreviewed	Uncharacterized protein	FAIM2	Myotis lucifugus (Little brown bat)	316
+G1QBJ5	G1QBJ5_MYOLU	unreviewed	Uncharacterized protein	KCNA5	Myotis lucifugus (Little brown bat)	603
+G1P5F2	G1P5F2_MYOLU	unreviewed	Uncharacterized protein (Fragment)	KCNMA1	Myotis lucifugus (Little brown bat)	1098
+G1PLY7	G1PLY7_MYOLU	unreviewed	Uncharacterized protein (Fragment)	EPHB1	Myotis lucifugus (Little brown bat)	945
+G1NYF4	G1NYF4_MYOLU	unreviewed	Uncharacterized protein	SCARB1	Myotis lucifugus (Little brown bat)	433
+G1NST8	G1NST8_MYOLU	unreviewed	Uncharacterized protein (Fragment)	TRPC4	Myotis lucifugus (Little brown bat)	977
+G1PUM4	G1PUM4_MYOLU	unreviewed	Uncharacterized protein	CDH15	Myotis lucifugus (Little brown bat)	785
+G1Q2K2	G1Q2K2_MYOLU	unreviewed	Uncharacterized protein (Fragment)	CACNA1H	Myotis lucifugus (Little brown bat)	584
+G1QAX4	G1QAX4_MYOLU	unreviewed	Uncharacterized protein	CD4	Myotis lucifugus (Little brown bat)	447
+G1PDN9	G1PDN9_MYOLU	unreviewed	Uncharacterized protein (Fragment)	TEK	Myotis lucifugus (Little brown bat)	1127
+G1QG33	G1QG33_MYOLU	unreviewed	Uncharacterized protein (Fragment)	LRP8	Myotis lucifugus (Little brown bat)	812
+G1P9N4	G1P9N4_MYOLU	unreviewed	Uncharacterized protein (Fragment)	CDH13	Myotis lucifugus (Little brown bat)	348
+G1T1M0	G1T1M0_RABIT	unreviewed	Voltage-dependent L-type calcium channel subunit alpha-1C (Fragment)	CACNA1C	Oryctolagus cuniculus (Rabbit)	1908
+G1SHP3	G1SHP3_RABIT	unreviewed	Uncharacterized protein	CD36	Oryctolagus cuniculus (Rabbit)	519
+G1T2X5	G1T2X5_RABIT	unreviewed	Uncharacterized protein	TRPC4	Oryctolagus cuniculus (Rabbit)	977
+Q95L64	Q95L64_RABIT	unreviewed	CD36 antigen (Fragment)		Oryctolagus cuniculus (Rabbit)	395
+C0LUT8	C0LUT8_RABIT	unreviewed	Ghrelin receptor	GHSR	Oryctolagus cuniculus (Rabbit)	366
+G1T4W7	G1T4W7_RABIT	unreviewed	Uncharacterized protein (Fragment)	SMO	Oryctolagus cuniculus (Rabbit)	789
+G1TWS7	G1TWS7_RABIT	unreviewed	Uncharacterized protein	SCARB1	Oryctolagus cuniculus (Rabbit)	455
+O19134	O19134_RABIT	unreviewed	Battenin (Fragment)	CLN3	Oryctolagus cuniculus (Rabbit)	419
+G1SIU4	G1SIU4_RABIT	unreviewed	Uncharacterized protein	LRP6	Oryctolagus cuniculus (Rabbit)	1613
+G1T4B9	G1T4B9_RABIT	unreviewed	T-cell surface glycoprotein CD4	CD4	Oryctolagus cuniculus (Rabbit)	459
+G1ST35	G1ST35_RABIT	unreviewed	Uncharacterized protein	CDH15	Oryctolagus cuniculus (Rabbit)	447
+G1TTP8	G1TTP8_RABIT	unreviewed	Uncharacterized protein (Fragment)	F2R	Oryctolagus cuniculus (Rabbit)	422
+G1SMN1	G1SMN1_RABIT	unreviewed	Uncharacterized protein	MALL	Oryctolagus cuniculus (Rabbit)	153
+G1SKG7	G1SKG7_RABIT	unreviewed	Uncharacterized protein	EPHB1	Oryctolagus cuniculus (Rabbit)	984
+Q0VB97	Q0VB97_MOUSE	unreviewed	Transient receptor potential cation channel, subfamily C, member 4 (Transient receptor potential cation channel, subfamily C, member 4, isoform CRA_c)	Trpc4 mCG_1661	Mus musculus (Mouse)	974
+Q542I8	Q542I8_MOUSE	unreviewed	Integrin beta	Itgb2 mCG_3383	Mus musculus (Mouse)	770
+B2RPS7	B2RPS7_MOUSE	unreviewed	Short transient receptor potential channel 1 (Transient receptor potential cation channel, subfamily C, member 1) (Transient receptor potential cation channel, subfamily C, member 1, isoform CRA_a)	Trpc1 mCG_10244	Mus musculus (Mouse)	809
+Q53YJ9	Q53YJ9_MOUSE	unreviewed	Cholinergic receptor, nicotinic, alpha polypeptide 7, isoform CRA_a (Cholinergic receptor, nicotinic, alpha polypeptide 7, isoform CRA_c) (Neuronal nicotinic acetylcholine receptor alpha7 subunit)	Chrna7 mCG_11830	Mus musculus (Mouse)	502
+Q3UAI3	Q3UAI3_MOUSE	unreviewed	CD36 antigen, isoform CRA_a	Cd36 mCG_21846	Mus musculus (Mouse)	472
+B7ZMP6	B7ZMP6_MOUSE	unreviewed	Transient receptor potential cation channel, subfamily C, member 1, isoform CRA_d (Trpc1 protein)	Trpc1 mCG_10244	Mus musculus (Mouse)	775
+Q3UYK2	Q3UYK2_MOUSE	unreviewed	Presenilin 1, isoform CRA_a	Psen1 mCG_116810	Mus musculus (Mouse)	467
+Q3U4P5	Q3U4P5_MOUSE	unreviewed	Presenilin 2, isoform CRA_a (Presenilin-2) (Presenilin-2 CTF subunit)	Psen2 mCG_6223	Mus musculus (Mouse)	448
+Q4VBD5	Q4VBD5_MOUSE	unreviewed	Smoothened (Smoothened homolog (Drosophila))	Smo	Mus musculus (Mouse)	793
+Q3V1Q3	Q3V1Q3_MOUSE	unreviewed	Adenylate cyclase type 2	Adcy2	Mus musculus (Mouse)	1095
+Q3UHK5	Q3UHK5_MOUSE	unreviewed	MCG142115, isoform CRA_c	Atp1a2 mCG_142115	Mus musculus (Mouse)	1020
+Q4FK30	Q4FK30_MOUSE	unreviewed	Scarb1 protein (Scavenger receptor class B, member 1, isoform CRA_b)	Scarb1 mCG_16968	Mus musculus (Mouse)	509
+Q3U5S6	Q3U5S6_MOUSE	unreviewed	Syndecan	Sdc4 mCG_5428	Mus musculus (Mouse)	198
+E9Q6P9	E9Q6P9_MOUSE	unreviewed	Voltage-dependent T-type calcium channel subunit alpha-1H	Cacna1h	Mus musculus (Mouse)	2359
+Q3TSV7	Q3TSV7_MOUSE	unreviewed	CD4 antigen, isoform CRA_a	Cd4 mCG_134308	Mus musculus (Mouse)	457
+Q0VBE5	Q0VBE5_MOUSE	unreviewed	Growth hormone secretagogue receptor	Ghsr mCG_49508	Mus musculus (Mouse)	364
+Q6T9D4	Q6T9D4_MOUSE	unreviewed	Connexin 43 (Fragment)	Gja1	Mus musculus (Mouse)	29
+B1AWS8	B1AWS8_MOUSE	unreviewed	Angiopoietin-1 receptor (Endothelial-specific receptor tyrosine kinase, isoform CRA_a)	Tek mCG_122568	Mus musculus (Mouse)	1123
+A2AD37	A2AD37_MOUSE	unreviewed	Opioid receptor, delta 1	Oprd1	Mus musculus (Mouse)	372
+Q3UDC9	Q3UDC9_MOUSE	unreviewed	Sodium/hydrogen exchanger	Slc9a1 mCG_20810	Mus musculus (Mouse)	820
+Q5S8D1	Q5S8D1_MOUSE	unreviewed	Cacna1c protein (Neuronal voltage-gated calcium channel alpha 1C subunit)	Cacna1c	Mus musculus (Mouse)	2139
+Q8VCD0	Q8VCD0_MOUSE	unreviewed	Kinase insert domain protein receptor (Vascular endothelial growth factor receptor 2)	Kdr mCG_7209	Mus musculus (Mouse)	1345
+D3Z2V4	D3Z2V4_MOUSE	unreviewed	Scavenger receptor class B member 1 (Scavenger receptor class B, member 1, isoform CRA_a)	Scarb1 mCG_16968	Mus musculus (Mouse)	506
+Q545P0	Q545P0_MOUSE	unreviewed	ATPase, Na+/K+ transporting, beta 1 polypeptide (ATPase, Na+/K+ transporting, beta 1 polypeptide, isoform CRA_d)	Atp1b1 mCG_9368	Mus musculus (Mouse)	304
+Q71QJ6	Q71QJ6_RAT	unreviewed	Calcium channel, voltage-dependent, L type, alpha 1C subunit, isoform CRA_a (L-type calcium channel alpha-1c subunit) (Voltage-dependent L-type calcium channel subunit alpha-1C)	Cacna1c rCG_29907	Rattus norvegicus (Rat)	2170
+Q91ZM1	Q91ZM1_RAT	unreviewed	Short transient receptor potential channel 4 (Transient receptor potential cation channel, subfamily C, member 4, isoform CRA_c) (Transient receptor potential channel 4 alpha splice variant)	Trpc4 Trpc4_v2 rCG_50060	Rattus norvegicus (Rat)	977
+G3V9C6	G3V9C6_RAT	unreviewed	Calcium channel, voltage-dependent, T type, alpha 1H subunit (Voltage-dependent T-type calcium channel subunit alpha-1H)	Cacna1h rCG_33015	Rattus norvegicus (Rat)	2359
+Q5XIH8	Q5XIH8_RAT	unreviewed	Battenin	Cln3 rCG_40703	Rattus norvegicus (Rat)	438
+Q5U324	Q5U324_RAT	unreviewed	Coagulation factor II (Thrombin) receptor	F2r rCG_44761	Rattus norvegicus (Rat)	432
+G3V736	G3V736_RAT	unreviewed	Smoothened homolog (Smoothened homolog (Drosophila))	Smo rCG_28227	Rattus norvegicus (Rat)	793
+Q5EB48	Q5EB48_RAT	unreviewed	Mal, T-cell differentiation protein-like (Protein Mall)	Mall rCG_26146	Rattus norvegicus (Rat)	154
+D3ZCD0	D3ZCD0_RAT	unreviewed	Endothelial-specific receptor tyrosine kinase (Protein Tek)	Tek rCG_53516	Rattus norvegicus (Rat)	1120
+Q75NI5	Q75NI5_RAT	unreviewed	Cadherin 15 (M-cadherin) (Protein Cdh15)	Cdh15 rCG_51596	Rattus norvegicus (Rat)	784
+Q5PQU0	Q5PQU0_RAT	unreviewed	Kdr protein (Kinase insert domain protein receptor, isoform CRA_b)	Kdr rCG_56984	Rattus norvegicus (Rat)	1343
+D3ZUH9	D3ZUH9_RAT	unreviewed	Low density lipoprotein receptor-related protein 6 (Predicted) (Protein Lrp6)	Lrp6 Lrp6_predicted rCG_29933	Rattus norvegicus (Rat)	1234
+A9YTJ3	A9YTJ3_RAT	unreviewed	Voltage-dependent calcium channel T type alpha 1H subunit (Fragment)		Rattus norvegicus (Rat)	187
+F1LNR9	F1LNR9_RAT	unreviewed	Transporter	Slc6a2	Rattus norvegicus (Rat)	597
+F1LNC7	F1LNC7_RAT	unreviewed	Calcium-activated potassium channel subunit alpha-1	Kcnma1	Rattus norvegicus (Rat)	1058
+D3ZE75	D3ZE75_RAT	unreviewed	Protein Lrp8	Lrp8	Rattus norvegicus (Rat)	999
+A1EA80	A1EA80_RAT	unreviewed	Voltage-dependent calcium channel T type alpha 1H subunit domain II (Fragment)		Rattus norvegicus (Rat)	337
+F1LQW0	F1LQW0_RAT	unreviewed	Transporter	Slc6a2	Rattus norvegicus (Rat)	567
+F1LPL6	F1LPL6_RAT	unreviewed	Tyrosine-protein kinase receptor (EC 2.7.10.1)	Insr	Rattus norvegicus (Rat)	1248
+F7F4S8	F7F4S8_RAT	unreviewed	Integrin beta	Itgb2	Rattus norvegicus (Rat)	768
+M0R834	M0R834_RAT	unreviewed	Proteinase-activated receptor 1 (Fragment)	F2r	Rattus norvegicus (Rat)	403
+F1LRB9	F1LRB9_RAT	unreviewed	Protein LOC100909709	LOC100909709	Rattus norvegicus (Rat)	759
+Q9WTR4	Q9WTR4_RAT	unreviewed	Transporter	Slc6a2	Rattus norvegicus (Rat)	597
+M0RBF2	M0RBF2_RAT	unreviewed	Vascular endothelial growth factor receptor 2	Kdr	Rattus norvegicus (Rat)	1216
+O70484	O70484_RAT	unreviewed	Transient receptor potential protein 1 (Fragment)	trp1	Rattus norvegicus (Rat)	123
+H0W9B9	H0W9B9_CAVPO	unreviewed	Uncharacterized protein	LOC100732253	Cavia porcellus (Guinea pig)	609
+H0VIF2	H0VIF2_CAVPO	unreviewed	Uncharacterized protein		Cavia porcellus (Guinea pig)	1078
+H0VFW3	H0VFW3_CAVPO	unreviewed	Uncharacterized protein (Fragment)	LOC100726761	Cavia porcellus (Guinea pig)	1357
+H0VNB8	H0VNB8_CAVPO	unreviewed	Uncharacterized protein	LOC100735282	Cavia porcellus (Guinea pig)	1613
+H0UXK4	H0UXK4_CAVPO	unreviewed	Uncharacterized protein (Fragment)		Cavia porcellus (Guinea pig)	941
+H0VJC6	H0VJC6_CAVPO	unreviewed	Uncharacterized protein (Fragment)		Cavia porcellus (Guinea pig)	882
+H0V0B0	H0V0B0_CAVPO	unreviewed	Uncharacterized protein	LOC100713312	Cavia porcellus (Guinea pig)	795
+H0VXU0	H0VXU0_CAVPO	unreviewed	Uncharacterized protein	LOC100715705	Cavia porcellus (Guinea pig)	153
+H0VVP6	H0VVP6_CAVPO	unreviewed	Uncharacterized protein		Cavia porcellus (Guinea pig)	120
+H0W419	H0W419_CAVPO	unreviewed	Uncharacterized protein	Scarb1	Cavia porcellus (Guinea pig)	509
+B8Q884	B8Q884_CAVPO	unreviewed	Transient receptor potential channel 4 alpha	TRPC4alpha	Cavia porcellus (Guinea pig)	977
+H0VL39	H0VL39_CAVPO	unreviewed	Uncharacterized protein (Fragment)		Cavia porcellus (Guinea pig)	1792
+H0VL66	H0VL66_CAVPO	unreviewed	Uncharacterized protein	LOC100734494	Cavia porcellus (Guinea pig)	460
+H0VZV0	H0VZV0_CAVPO	unreviewed	Uncharacterized protein (Fragment)	LOC100719323	Cavia porcellus (Guinea pig)	391
+H0UU29	H0UU29_CAVPO	unreviewed	Uncharacterized protein	LOC100730182	Cavia porcellus (Guinea pig)	472
+H0VGF5	H0VGF5_CAVPO	unreviewed	Uncharacterized protein (Fragment)		Cavia porcellus (Guinea pig)	1985
+H0WBE0	H0WBE0_CAVPO	unreviewed	Uncharacterized protein	LOC100713312	Cavia porcellus (Guinea pig)	111
+H0VFN6	H0VFN6_CAVPO	unreviewed	Uncharacterized protein		Cavia porcellus (Guinea pig)	1121
+H0VQ44	H0VQ44_CAVPO	unreviewed	Uncharacterized protein	LOC100731433	Cavia porcellus (Guinea pig)	316
+H0VH87	H0VH87_CAVPO	unreviewed	Uncharacterized protein (Fragment)	CDH13	Cavia porcellus (Guinea pig)	352
+H0VF73	H0VF73_CAVPO	unreviewed	Uncharacterized protein	LOC100722287	Cavia porcellus (Guinea pig)	316
+H0VJW1	H0VJW1_CAVPO	unreviewed	Uncharacterized protein (Fragment)		Cavia porcellus (Guinea pig)	958
+H0VMQ0	H0VMQ0_CAVPO	unreviewed	Tyrosine-protein kinase receptor (EC 2.7.10.1) (Fragment)	LOC100718484	Cavia porcellus (Guinea pig)	1368
+H0VZX1	H0VZX1_CAVPO	unreviewed	Uncharacterized protein (Fragment)		Cavia porcellus (Guinea pig)	753
+H0W0Q4	H0W0Q4_CAVPO	unreviewed	Uncharacterized protein (Fragment)	LOC100713312	Cavia porcellus (Guinea pig)	117
+Q50H42	Q50H42_CAVPO	unreviewed	Transient receptor potential cation channel protein 4 (Fragment)	TRP4	Cavia porcellus (Guinea pig)	113
+H0VN11	H0VN11_CAVPO	unreviewed	Uncharacterized protein	LOC100732598	Cavia porcellus (Guinea pig)	789
+Q3UVJ3	Q3UVJ3_MOUSE	unreviewed	Tyrosine-protein kinase receptor (EC 2.7.10.1)	Igf1r	Mus musculus (Mouse)	923
+E0CYZ3	E0CYZ3_MOUSE	unreviewed	Voltage-dependent T-type calcium channel subunit alpha-1H	Cacna1h	Mus musculus (Mouse)	1901
+E9QNX9	E9QNX9_MOUSE	unreviewed	Tyrosine-protein kinase receptor (EC 2.7.10.1)	Igf1r	Mus musculus (Mouse)	1369
+F8WGN0	F8WGN0_MOUSE	unreviewed	Voltage-dependent L-type calcium channel subunit alpha-1C	Cacna1c	Mus musculus (Mouse)	2005
+J3QMT8	J3QMT8_MOUSE	unreviewed	Calcium-activated potassium channel subunit alpha-1	Kcnma1	Mus musculus (Mouse)	1135
+Q3UF49	Q3UF49_MOUSE	unreviewed	Putative uncharacterized protein (Fragment)	Atp1a1	Mus musculus (Mouse)	406
+D3Z1S4	D3Z1S4_MOUSE	unreviewed	Integrin beta (Fragment)	Itgb2	Mus musculus (Mouse)	54
+F7C5U2	F7C5U2_MOUSE	unreviewed	Scavenger receptor class B member 1 (Fragment)	Scarb1	Mus musculus (Mouse)	176
+G3UYL0	G3UYL0_MOUSE	unreviewed	Solute carrier family 2, facilitated glucose transporter member 1 (Fragment)	Slc2a1	Mus musculus (Mouse)	123
+Q3U6Y9	Q3U6Y9_MOUSE	unreviewed	Putative uncharacterized protein	Cd36	Mus musculus (Mouse)	446
+Q3TS86	Q3TS86_MOUSE	unreviewed	Putative uncharacterized protein (Fragment)	Lrp6	Mus musculus (Mouse)	619
+Q80UB2	Q80UB2_MOUSE	unreviewed	Growth hormone secretagogue receptor type 1 (Fragment)	Ghsr	Mus musculus (Mouse)	123
+Q9CT95	Q9CT95_MOUSE	unreviewed	Putative uncharacterized protein (Fragment)	Cd36	Mus musculus (Mouse)	66
+E9Q8K0	E9Q8K0_MOUSE	unreviewed	Low-density lipoprotein receptor-related protein 6	Lrp6	Mus musculus (Mouse)	667
+Q3TDW2	Q3TDW2_MOUSE	unreviewed	Putative uncharacterized protein (Fragment)	Psen1	Mus musculus (Mouse)	339
+F7C376	F7C376_MOUSE	unreviewed	Voltage-dependent L-type calcium channel subunit alpha-1C	Cacna1c	Mus musculus (Mouse)	2063
+Q8BT28	Q8BT28_MOUSE	unreviewed	Putative uncharacterized protein (Fragment)	Cdh13	Mus musculus (Mouse)	351
+Q0PCR5	Q0PCR5_MOUSE	unreviewed	Voltage-dependent calcium channel splice variant 1.2-b (Fragment)	Cacna1c CaV1.2-b	Mus musculus (Mouse)	138
+Q5NCR5	Q5NCR5_MOUSE	unreviewed	Transporter (Fragment)	Slc6a4	Mus musculus (Mouse)	158
+B1ACW5	B1ACW5_MOUSE	unreviewed	Delta 1 opioid receptor (Fragment)	Oprd1	Mus musculus (Mouse)	296
+F8WJL1	F8WJL1_MOUSE	unreviewed	Voltage-dependent L-type calcium channel subunit alpha-1C	Cacna1c	Mus musculus (Mouse)	1969
+Q0PCR6	Q0PCR6_MOUSE	unreviewed	Voltage-dependent calcium channel splice variant 1.2-a	Cacna1c CaV1.2-a	Mus musculus (Mouse)	2169
+Q3UX23	Q3UX23_MOUSE	unreviewed	Putative uncharacterized protein (Fragment)	Cacna1h	Mus musculus (Mouse)	1052
+Q9CT20	Q9CT20_MOUSE	unreviewed	Gap junction protein (Fragment)	Gja1	Mus musculus (Mouse)	110
+Q3V391	Q3V391_MOUSE	unreviewed	Putative uncharacterized protein (Fragment)	Itga1	Mus musculus (Mouse)	682
+M4TKR7	M4TKR7_MOUSE	unreviewed	Tyrosine-protein kinase receptor (EC 2.7.10.1)	Insr	Mus musculus (Mouse)	1384
+Q8K2R2	Q8K2R2_MOUSE	unreviewed	Atp1a1 protein	Atp1a1	Mus musculus (Mouse)	433
+B1AXJ3	B1AXJ3_MOUSE	unreviewed	Low-density lipoprotein receptor-related protein 8	Lrp8	Mus musculus (Mouse)	870
+Q3US54	Q3US54_MOUSE	unreviewed	Putative uncharacterized protein (Fragment)	Lrp6	Mus musculus (Mouse)	682
+Q7TMQ1	Q7TMQ1_MOUSE	unreviewed	Gap junction protein	Gja1	Mus musculus (Mouse)	434
+Q5UBE7	Q5UBE7_MOUSE	unreviewed	Serotonin transporter (Fragment)	Slc6a4	Mus musculus (Mouse)	112
+Q8R3A9	Q8R3A9_MOUSE	unreviewed	Atp1a2 protein (Fragment)	Atp1a2	Mus musculus (Mouse)	486
+D3YYN7	D3YYN7_MOUSE	unreviewed	Sodium/potassium-transporting ATPase subunit alpha-2	Atp1a2	Mus musculus (Mouse)	947
+Q3TN68	Q3TN68_MOUSE	unreviewed	Sodium/hydrogen exchanger (Fragment)	Slc9a1	Mus musculus (Mouse)	549
+D3YYP8	D3YYP8_MOUSE	unreviewed	Integrin beta (Fragment)	Itgb2	Mus musculus (Mouse)	130
+F8WIW9	F8WIW9_MOUSE	unreviewed	Voltage-dependent L-type calcium channel subunit alpha-1C	Cacna1c	Mus musculus (Mouse)	1980
+M0QWA7	M0QWA7_MOUSE	unreviewed	Integrin beta	Itgb2	Mus musculus (Mouse)	480
+Q8BNQ0	Q8BNQ0_MOUSE	unreviewed	Putative uncharacterized protein	Scarb1	Mus musculus (Mouse)	154
+Q6PE92	Q6PE92_MOUSE	unreviewed	Cacna1h protein (Fragment)	Cacna1h	Mus musculus (Mouse)	541
+F6USE5	F6USE5_MOUSE	unreviewed	Voltage-dependent T-type calcium channel subunit alpha-1H (Fragment)	Cacna1h	Mus musculus (Mouse)	293
+C7TQ62	C7TQ62_MOUSE	unreviewed	Calcium channel voltage-dependent alpha1c subunit	Cacna1c	Mus musculus (Mouse)	2222
+C7TQ58	C7TQ58_MOUSE	unreviewed	Calcium channel voltage-dependent alpha1c subunit	Cacna1c	Mus musculus (Mouse)	2194
+Q5EM20	Q5EM20_MOUSE	unreviewed	Presenilin 2 (Fragment)	Psen2	Mus musculus (Mouse)	260
+C7TQ59	C7TQ59_MOUSE	unreviewed	Calcium channel voltage-dependent alpha1c subunit	Cacna1c	Mus musculus (Mouse)	2169
+Q3TZ42	Q3TZ42_MOUSE	unreviewed	Putative uncharacterized protein	Scarb1	Mus musculus (Mouse)	509
+Q8BNT2	Q8BNT2_MOUSE	unreviewed	Putative uncharacterized protein	Trpc4	Mus musculus (Mouse)	974
+O55054	O55054_MOUSE	unreviewed	T4 surface glycoprotein (Fragment)	Cd4	Mus musculus (Mouse)	433
+C7TQ61	C7TQ61_MOUSE	unreviewed	Calcium channel voltage-dependent alpha1c subunit	Cacna1c	Mus musculus (Mouse)	2156
+Q0PCR4	Q0PCR4_MOUSE	unreviewed	Voltage-dependent calcium channel (Fragment)	Cacna1c CaV1.2-d	Mus musculus (Mouse)	113
+Q3TA14	Q3TA14_MOUSE	unreviewed	Putative uncharacterized protein	Cd36	Mus musculus (Mouse)	472
+Q3UC79	Q3UC79_MOUSE	unreviewed	Putative uncharacterized protein	Cd36	Mus musculus (Mouse)	472
+B7ZN95	B7ZN95_MOUSE	unreviewed	Cacna1c protein	Cacna1c	Mus musculus (Mouse)	2139
+Q8C6Z4	Q8C6Z4_MOUSE	unreviewed	Putative uncharacterized protein	Cd36	Mus musculus (Mouse)	472
+E7D893	E7D893_MOUSE	unreviewed	CD36 antigen variant (Fragment)	Cd36	Mus musculus (Mouse)	133
+C7TQ57	C7TQ57_MOUSE	unreviewed	Calcium channel voltage-dependent alpha1c subunit	Cacna1c	Mus musculus (Mouse)	2169
+C7TQ60	C7TQ60_MOUSE	unreviewed	Calcium channel voltage-dependent alpha1c subunit	Cacna1c	Mus musculus (Mouse)	2153
+F6U5P7	F6U5P7_MOUSE	unreviewed	Voltage-dependent T-type calcium channel subunit alpha-1H (Fragment)	Cacna1h	Mus musculus (Mouse)	49
